@@ -1,0 +1,915 @@
+2024-03-28 11:09:50 INFO  Log:20 - =====================================testCheckout TEST START=========================================
+2024-03-28 11:09:56 INFO  Log:31 - --user is going to enter credentials--
+2024-03-28 11:10:06 INFO  Log:31 - --user is searching camera products--
+2024-03-28 11:10:10 INFO  Log:31 - --click on product--
+2024-03-28 11:10:14 INFO  Log:31 - --click on add to cart--
+2024-03-28 11:10:16 INFO  Log:31 - --validating product added to cart--
+2024-03-28 11:10:16 INFO  Log:31 - --moving to cart--
+2024-03-28 11:10:20 INFO  Log:31 - --click on checkout--
+2024-03-28 11:10:24 INFO  Log:31 - --verify user is in checkoutpage--
+2024-03-28 11:10:24 INFO  Log:24 - =====================================testCheckout TEST END=========================================
+2024-03-28 12:06:18 INFO  Log:20 - =====================================testCheckout TEST START=========================================
+2024-03-28 12:06:19 INFO  Log:31 - --user is going to enter credentials--
+2024-03-28 12:06:20 INFO  Log:31 - --user is searching camera products--
+2024-03-28 12:06:21 INFO  Log:31 - --click on product--
+2024-03-28 12:06:21 INFO  Log:31 - --click on add to cart--
+2024-03-28 12:06:22 INFO  Log:31 - --validating product added to cart--
+2024-03-28 12:06:22 INFO  Log:31 - --moving to cart--
+2024-03-28 12:06:23 INFO  Log:31 - --click on checkout--
+2024-03-28 12:06:23 INFO  Log:31 - --verify user is in checkoutpage--
+2024-03-28 12:06:23 INFO  Log:24 - =====================================testCheckout TEST END=========================================
+2024-03-28 14:07:53 INFO  Log:20 - =====================================testCheckout TEST START=========================================
+2024-03-28 14:07:54 INFO  Log:31 - --user is going to enter credentials--
+2024-03-28 14:07:55 INFO  Log:31 - --user is searching camera products--
+2024-03-28 14:07:56 INFO  Log:31 - --click on product--
+2024-03-28 14:07:57 INFO  Log:31 - --click on add to cart--
+2024-03-28 14:07:57 INFO  Log:31 - --validating product added to cart--
+2024-03-28 14:07:57 INFO  Log:31 - --moving to cart--
+2024-03-28 14:07:58 INFO  Log:31 - --click on checkout--
+2024-03-28 14:07:59 INFO  Log:31 - --verify user is in checkoutpage--
+2024-03-28 14:07:59 INFO  Log:24 - =====================================testCheckout TEST END=========================================
+2024-03-28 14:22:38 INFO  Log:20 - =====================================testCheckout TEST START=========================================
+2024-03-28 14:22:39 INFO  Log:31 - --user is going to enter credentials--
+2024-03-28 14:22:40 INFO  Log:31 - --user is searching camera products--
+2024-03-28 14:22:41 INFO  Log:31 - --click on product--
+2024-03-28 14:22:42 INFO  Log:31 - --click on add to cart--
+2024-03-28 14:22:42 INFO  Log:31 - --validating product added to cart--
+2024-03-28 14:22:42 INFO  Log:31 - --moving to cart--
+2024-03-28 14:22:43 INFO  Log:31 - --click on checkout--
+2024-03-28 14:22:43 INFO  Log:31 - --verify user is in checkoutpage--
+2024-03-28 14:22:43 INFO  Log:24 - =====================================testCheckout TEST END=========================================
+2024-03-28 14:38:32 INFO  Log:20 - =====================================testCheckout TEST START=========================================
+2024-03-28 14:38:33 INFO  Log:31 - --user is going to enter credentials--
+2024-03-28 14:38:35 INFO  Log:31 - --user is searching camera products--
+2024-03-28 14:38:35 INFO  Log:31 - --click on product--
+2024-03-28 14:38:36 INFO  Log:31 - --click on add to cart--
+2024-03-28 14:38:36 INFO  Log:31 - --validating product added to cart--
+2024-03-28 14:38:37 INFO  Log:31 - --moving to cart--
+2024-03-28 14:38:37 INFO  Log:31 - --click on checkout--
+2024-03-28 14:38:38 INFO  Log:31 - --verify user is in checkoutpage--
+2024-03-28 14:38:38 INFO  Log:24 - =====================================testCheckout TEST END=========================================
+2024-03-28 14:56:53 INFO  Log:20 - =====================================testCheckout TEST START=========================================
+2024-03-28 14:56:54 INFO  Log:31 - --user is going to enter credentials--
+2024-03-28 15:09:56 INFO  Log:20 - =====================================testCheckout TEST START=========================================
+2024-03-28 15:09:57 INFO  Log:31 - --user is going to enter credentials--
+2024-03-28 15:09:59 INFO  Log:31 - --user is searching camera products--
+2024-03-28 15:09:59 INFO  Log:31 - --click on product--
+2024-03-28 15:10:00 INFO  Log:31 - --click on add to cart--
+2024-03-28 15:10:00 INFO  Log:31 - --validating product added to cart--
+2024-03-28 15:10:00 INFO  Log:31 - --moving to cart--
+2024-03-28 15:10:01 INFO  Log:31 - --click on checkout--
+2024-03-28 15:10:02 INFO  Log:31 - --verify user is in checkoutpage--
+2024-03-28 15:10:02 INFO  Log:24 - =====================================testCheckout TEST END=========================================
+2024-03-28 15:11:02 INFO  Log:20 - =====================================testCheckout TEST START=========================================
+2024-03-28 15:11:02 INFO  Log:31 - --user is going to enter credentials--
+2024-03-28 15:11:03 INFO  Log:31 - --user is searching camera products--
+2024-03-28 15:11:03 INFO  Log:31 - --click on product--
+2024-03-28 15:11:04 INFO  Log:31 - --click on add to cart--
+2024-03-28 15:27:49 INFO  Log:20 - =====================================testCheckout TEST START=========================================
+2024-03-28 15:27:50 INFO  Log:31 - --user is going to enter credentials--
+2024-03-28 15:27:51 INFO  Log:31 - --user is searching camera products--
+2024-03-28 15:27:51 INFO  Log:31 - --click on product--
+2024-03-28 15:27:51 INFO  Log:31 - --click on add to cart--
+2024-03-28 15:28:55 INFO  Log:20 - =====================================testCheckout TEST START=========================================
+2024-03-28 15:28:56 INFO  Log:31 - --user is going to enter credentials--
+2024-03-28 15:28:58 INFO  Log:31 - --user is searching camera products--
+2024-03-28 15:28:58 INFO  Log:31 - --click on product--
+2024-03-28 15:28:59 INFO  Log:20 - =====================================testCheckout TEST START=========================================
+2024-03-28 15:28:59 INFO  Log:31 - --click on add to cart--
+2024-03-28 15:28:59 INFO  Log:31 - --user is going to enter credentials--
+2024-03-28 15:29:00 INFO  Log:31 - --validating product added to cart--
+2024-03-28 15:29:00 INFO  Log:31 - --moving to cart--
+2024-03-28 15:29:00 INFO  Log:31 - --user is searching camera products--
+2024-03-28 15:29:01 INFO  Log:31 - --click on product--
+2024-03-28 15:29:01 INFO  Log:31 - --click on checkout--
+2024-03-28 15:29:01 INFO  Log:31 - --click on add to cart--
+2024-03-28 15:29:02 INFO  Log:31 - --verify user is in checkoutpage--
+2024-03-28 15:29:02 INFO  Log:24 - =====================================testCheckout TEST END=========================================
+2024-03-29 10:23:43 INFO  Log:20 - =====================================testCheckout TEST START=========================================
+2024-03-29 10:23:43 INFO  Log:20 - =====================================testCheckout TEST START=========================================
+2024-03-29 10:23:43 INFO  Log:31 - --user is going to enter credentials--
+2024-03-29 10:23:44 INFO  Log:31 - --user is going to enter credentials--
+2024-03-29 10:23:45 INFO  Log:31 - --user is searching camera products--
+2024-03-29 10:23:45 INFO  Log:31 - --click on product--
+2024-03-29 10:23:45 INFO  Log:31 - --user is searching camera products--
+2024-03-29 10:23:46 INFO  Log:31 - --click on add to cart--
+2024-03-29 10:23:46 INFO  Log:31 - --click on product--
+2024-03-29 10:23:47 INFO  Log:31 - --click on add to cart--
+2024-03-29 10:23:47 INFO  Log:31 - --validating product added to cart--
+2024-03-29 10:23:47 INFO  Log:31 - --moving to cart--
+2024-03-29 10:23:48 INFO  Log:31 - --click on checkout--
+2024-03-29 10:23:49 INFO  Log:31 - --verify user is in checkoutpage--
+2024-03-29 10:23:49 INFO  Log:24 - =====================================testCheckout TEST END=========================================
+2024-03-29 11:43:24 INFO  Log:20 - =====================================testvalidatOrderHistory TEST START=========================================
+2024-03-29 11:43:42 INFO  Log:24 - =====================================testvalidatOrderHistory TEST END=========================================
+2024-03-29 11:43:54 INFO  Log:20 - =====================================testSearchCamera TEST START=========================================
+2024-03-29 11:44:05 INFO  Log:24 - =====================================testSearchCamera TEST END=========================================
+2024-03-29 11:44:17 INFO  Log:20 - =====================================testaddToCart TEST START=========================================
+2024-03-29 11:44:49 INFO  Log:24 - =====================================testaddToCart TEST END=========================================
+2024-03-29 11:45:00 INFO  Log:20 - =====================================testLogin TEST START=========================================
+2024-03-29 11:45:16 INFO  Log:24 - =====================================testLogin TEST END=========================================
+2024-03-29 11:45:28 INFO  Log:20 - =====================================testTitle TEST START=========================================
+2024-03-29 11:45:28 INFO  Log:24 - =====================================testTitle TEST END=========================================
+2024-03-29 11:45:40 INFO  Log:20 - =====================================testValidateLogo TEST START=========================================
+2024-03-29 11:45:41 INFO  Log:24 - =====================================testValidateLogo TEST END=========================================
+2024-03-29 11:45:52 INFO  Log:20 - =====================================testCheckout TEST START=========================================
+2024-03-29 11:45:58 INFO  Log:31 - --user is going to enter credentials--
+2024-03-29 11:46:10 INFO  Log:31 - --user is searching camera products--
+2024-03-29 11:46:14 INFO  Log:31 - --click on product--
+2024-03-29 11:46:19 INFO  Log:31 - --click on add to cart--
+2024-03-29 11:46:20 INFO  Log:31 - --validating product added to cart--
+2024-03-29 11:46:21 INFO  Log:31 - --moving to cart--
+2024-03-29 11:46:25 INFO  Log:31 - --click on checkout--
+2024-03-29 11:46:29 INFO  Log:31 - --verify user is in checkoutpage--
+2024-03-29 11:46:29 INFO  Log:24 - =====================================testCheckout TEST END=========================================
+2024-03-29 11:57:10 INFO  Log:20 - =====================================testvalidatOrderHistory TEST START=========================================
+2024-03-29 11:57:27 INFO  Log:24 - =====================================testvalidatOrderHistory TEST END=========================================
+2024-03-29 11:57:40 INFO  Log:20 - =====================================testSearchCamera TEST START=========================================
+2024-03-29 11:57:54 INFO  Log:24 - =====================================testSearchCamera TEST END=========================================
+2024-03-29 11:58:06 INFO  Log:20 - =====================================testaddToCart TEST START=========================================
+2024-03-29 11:58:36 INFO  Log:24 - =====================================testaddToCart TEST END=========================================
+2024-03-29 11:58:47 INFO  Log:20 - =====================================testLogin TEST START=========================================
+2024-03-29 11:59:04 INFO  Log:24 - =====================================testLogin TEST END=========================================
+2024-03-29 11:59:16 INFO  Log:20 - =====================================testTitle TEST START=========================================
+2024-03-29 11:59:16 INFO  Log:24 - =====================================testTitle TEST END=========================================
+2024-03-29 11:59:27 INFO  Log:20 - =====================================testValidateLogo TEST START=========================================
+2024-03-29 11:59:27 INFO  Log:24 - =====================================testValidateLogo TEST END=========================================
+2024-03-29 11:59:42 INFO  Log:20 - =====================================testCheckout TEST START=========================================
+2024-03-29 11:59:46 INFO  Log:31 - --user is going to enter credentials--
+2024-03-29 11:59:58 INFO  Log:31 - --user is searching camera products--
+2024-03-29 12:00:02 INFO  Log:31 - --click on product--
+2024-03-29 12:00:07 INFO  Log:31 - --click on add to cart--
+2024-03-29 12:00:08 INFO  Log:31 - --validating product added to cart--
+2024-03-29 12:00:09 INFO  Log:31 - --moving to cart--
+2024-03-29 12:00:12 INFO  Log:31 - --click on checkout--
+2024-03-29 12:00:16 INFO  Log:31 - --verify user is in checkoutpage--
+2024-03-29 12:00:16 INFO  Log:24 - =====================================testCheckout TEST END=========================================
+2024-03-29 12:05:12 INFO  Log:20 - =====================================testvalidatOrderHistory TEST START=========================================
+2024-03-29 12:05:14 INFO  Log:24 - =====================================testvalidatOrderHistory TEST END=========================================
+2024-03-29 12:05:15 INFO  Log:20 - =====================================testSearchCamera TEST START=========================================
+2024-03-29 12:05:17 INFO  Log:24 - =====================================testSearchCamera TEST END=========================================
+2024-03-29 12:05:19 INFO  Log:20 - =====================================testaddToCart TEST START=========================================
+2024-03-29 12:05:23 INFO  Log:24 - =====================================testaddToCart TEST END=========================================
+2024-03-29 12:05:25 INFO  Log:20 - =====================================testLogin TEST START=========================================
+2024-03-29 12:05:27 INFO  Log:24 - =====================================testLogin TEST END=========================================
+2024-03-29 12:05:29 INFO  Log:20 - =====================================testTitle TEST START=========================================
+2024-03-29 12:05:29 INFO  Log:24 - =====================================testTitle TEST END=========================================
+2024-03-29 12:05:30 INFO  Log:20 - =====================================testValidateLogo TEST START=========================================
+2024-03-29 12:05:30 INFO  Log:24 - =====================================testValidateLogo TEST END=========================================
+2024-03-29 12:05:32 INFO  Log:20 - =====================================testCheckout TEST START=========================================
+2024-03-29 12:05:33 INFO  Log:31 - --user is going to enter credentials--
+2024-03-29 12:05:34 INFO  Log:31 - --user is searching camera products--
+2024-03-29 12:05:35 INFO  Log:31 - --click on product--
+2024-03-29 12:05:35 INFO  Log:31 - --click on add to cart--
+2024-03-29 12:05:36 INFO  Log:31 - --validating product added to cart--
+2024-03-29 12:05:36 INFO  Log:31 - --moving to cart--
+2024-03-29 12:05:36 INFO  Log:31 - --click on checkout--
+2024-03-29 12:05:37 INFO  Log:31 - --verify user is in checkoutpage--
+2024-03-29 12:05:37 INFO  Log:24 - =====================================testCheckout TEST END=========================================
+2024-03-29 12:07:41 INFO  Log:20 - =====================================testvalidatOrderHistory TEST START=========================================
+2024-03-29 12:07:43 INFO  Log:24 - =====================================testvalidatOrderHistory TEST END=========================================
+2024-03-29 12:07:45 INFO  Log:20 - =====================================testSearchCamera TEST START=========================================
+2024-03-29 12:07:46 INFO  Log:24 - =====================================testSearchCamera TEST END=========================================
+2024-03-29 12:07:48 INFO  Log:20 - =====================================testaddToCart TEST START=========================================
+2024-03-29 12:07:53 INFO  Log:24 - =====================================testaddToCart TEST END=========================================
+2024-03-29 12:07:54 INFO  Log:20 - =====================================testLogin TEST START=========================================
+2024-03-29 12:07:56 INFO  Log:24 - =====================================testLogin TEST END=========================================
+2024-03-29 12:07:58 INFO  Log:20 - =====================================testTitle TEST START=========================================
+2024-03-29 12:07:58 INFO  Log:24 - =====================================testTitle TEST END=========================================
+2024-03-29 12:08:00 INFO  Log:20 - =====================================testValidateLogo TEST START=========================================
+2024-03-29 12:08:00 INFO  Log:24 - =====================================testValidateLogo TEST END=========================================
+2024-03-29 12:08:01 INFO  Log:20 - =====================================testCheckout TEST START=========================================
+2024-03-29 12:08:02 INFO  Log:31 - --user is going to enter credentials--
+2024-03-29 12:08:03 INFO  Log:31 - --user is searching camera products--
+2024-03-29 12:08:04 INFO  Log:31 - --click on product--
+2024-03-29 12:08:05 INFO  Log:31 - --click on add to cart--
+2024-03-29 12:08:05 INFO  Log:31 - --validating product added to cart--
+2024-03-29 12:08:05 INFO  Log:31 - --moving to cart--
+2024-03-29 12:08:06 INFO  Log:31 - --click on checkout--
+2024-03-29 12:08:06 INFO  Log:31 - --verify user is in checkoutpage--
+2024-03-29 12:08:06 INFO  Log:24 - =====================================testCheckout TEST END=========================================
+2024-03-29 12:17:08 INFO  Log:20 - =====================================testvalidatOrderHistory TEST START=========================================
+2024-03-29 12:17:10 INFO  Log:24 - =====================================testvalidatOrderHistory TEST END=========================================
+2024-03-29 12:17:12 INFO  Log:20 - =====================================testSearchCamera TEST START=========================================
+2024-03-29 12:17:13 INFO  Log:24 - =====================================testSearchCamera TEST END=========================================
+2024-03-29 12:17:15 INFO  Log:20 - =====================================testaddToCart TEST START=========================================
+2024-03-29 12:17:20 INFO  Log:24 - =====================================testaddToCart TEST END=========================================
+2024-03-29 12:17:22 INFO  Log:20 - =====================================testLogin TEST START=========================================
+2024-03-29 12:17:24 INFO  Log:24 - =====================================testLogin TEST END=========================================
+2024-03-29 12:17:26 INFO  Log:20 - =====================================testTitle TEST START=========================================
+2024-03-29 12:17:26 INFO  Log:24 - =====================================testTitle TEST END=========================================
+2024-03-29 12:17:28 INFO  Log:20 - =====================================testValidateLogo TEST START=========================================
+2024-03-29 12:17:28 INFO  Log:24 - =====================================testValidateLogo TEST END=========================================
+2024-03-29 12:17:30 INFO  Log:20 - =====================================testCheckout TEST START=========================================
+2024-03-29 12:17:31 INFO  Log:31 - --user is going to enter credentials--
+2024-03-29 12:17:32 INFO  Log:31 - --user is searching camera products--
+2024-03-29 12:17:33 INFO  Log:31 - --click on product--
+2024-03-29 12:17:34 INFO  Log:31 - --click on add to cart--
+2024-03-29 12:17:34 INFO  Log:31 - --validating product added to cart--
+2024-03-29 12:17:34 INFO  Log:31 - --moving to cart--
+2024-03-29 12:17:35 INFO  Log:31 - --click on checkout--
+2024-03-29 12:17:35 INFO  Log:31 - --verify user is in checkoutpage--
+2024-03-29 13:03:02 INFO  Log:20 - =====================================testvalidatOrderHistory TEST START=========================================
+2024-03-29 13:03:04 INFO  Log:24 - =====================================testvalidatOrderHistory TEST END=========================================
+2024-03-29 13:03:05 INFO  Log:20 - =====================================testSearchCamera TEST START=========================================
+2024-03-29 13:03:07 INFO  Log:24 - =====================================testSearchCamera TEST END=========================================
+2024-03-29 13:03:09 INFO  Log:20 - =====================================testaddToCart TEST START=========================================
+2024-03-29 13:03:13 INFO  Log:24 - =====================================testaddToCart TEST END=========================================
+2024-03-29 13:03:15 INFO  Log:20 - =====================================testLogin TEST START=========================================
+2024-03-29 13:03:17 INFO  Log:24 - =====================================testLogin TEST END=========================================
+2024-03-29 13:03:19 INFO  Log:20 - =====================================testTitle TEST START=========================================
+2024-03-29 13:03:19 INFO  Log:24 - =====================================testTitle TEST END=========================================
+2024-03-29 13:03:20 INFO  Log:20 - =====================================testValidateLogo TEST START=========================================
+2024-03-29 13:03:20 INFO  Log:24 - =====================================testValidateLogo TEST END=========================================
+2024-03-29 13:03:22 INFO  Log:20 - =====================================testCheckout TEST START=========================================
+2024-03-29 13:03:23 INFO  Log:31 - --user is going to enter credentials--
+2024-03-29 13:03:24 INFO  Log:31 - --user is searching camera products--
+2024-03-29 13:03:25 INFO  Log:31 - --click on product--
+2024-03-29 13:03:25 INFO  Log:31 - --click on add to cart--
+2024-03-29 13:03:26 INFO  Log:31 - --validating product added to cart--
+2024-03-29 13:03:26 INFO  Log:31 - --moving to cart--
+2024-03-29 13:03:26 INFO  Log:31 - --click on checkout--
+2024-03-29 13:03:27 INFO  Log:31 - --verify user is in checkoutpage--
+2024-03-29 13:03:27 INFO  Log:24 - =====================================testCheckout TEST END=========================================
+2024-03-29 14:02:37 INFO  Log:20 - =====================================testvalidatOrderHistory TEST START=========================================
+2024-03-29 14:02:40 INFO  Log:24 - =====================================testvalidatOrderHistory TEST END=========================================
+2024-03-29 14:02:42 INFO  Log:20 - =====================================testSearchCamera TEST START=========================================
+2024-03-29 14:02:44 INFO  Log:24 - =====================================testSearchCamera TEST END=========================================
+2024-03-29 14:02:45 INFO  Log:20 - =====================================testaddToCart TEST START=========================================
+2024-03-29 14:02:50 INFO  Log:24 - =====================================testaddToCart TEST END=========================================
+2024-03-29 14:02:52 INFO  Log:20 - =====================================testLogin TEST START=========================================
+2024-03-29 14:02:54 INFO  Log:24 - =====================================testLogin TEST END=========================================
+2024-03-29 14:02:56 INFO  Log:20 - =====================================testTitle TEST START=========================================
+2024-03-29 14:02:56 INFO  Log:24 - =====================================testTitle TEST END=========================================
+2024-03-29 14:02:57 INFO  Log:20 - =====================================testValidateLogo TEST START=========================================
+2024-03-29 14:02:57 INFO  Log:24 - =====================================testValidateLogo TEST END=========================================
+2024-03-29 14:02:59 INFO  Log:20 - =====================================testCheckout TEST START=========================================
+2024-03-29 14:03:00 INFO  Log:31 - --user is going to enter credentials--
+2024-03-29 14:03:01 INFO  Log:31 - --user is searching camera products--
+2024-03-29 14:03:02 INFO  Log:31 - --click on product--
+2024-03-29 14:03:03 INFO  Log:31 - --click on add to cart--
+2024-03-29 14:03:03 INFO  Log:31 - --validating product added to cart--
+2024-03-29 14:03:03 INFO  Log:31 - --moving to cart--
+2024-03-29 14:03:04 INFO  Log:31 - --click on checkout--
+2024-03-29 14:03:04 INFO  Log:31 - --verify user is in checkoutpage--
+2024-03-29 14:03:04 INFO  Log:24 - =====================================testCheckout TEST END=========================================
+2024-03-29 14:06:37 INFO  Log:20 - =====================================testvalidatOrderHistory TEST START=========================================
+2024-03-29 14:06:39 INFO  Log:24 - =====================================testvalidatOrderHistory TEST END=========================================
+2024-03-29 14:06:41 INFO  Log:20 - =====================================testSearchCamera TEST START=========================================
+2024-03-29 14:06:42 INFO  Log:24 - =====================================testSearchCamera TEST END=========================================
+2024-03-29 14:06:44 INFO  Log:20 - =====================================testaddToCart TEST START=========================================
+2024-03-29 14:06:49 INFO  Log:24 - =====================================testaddToCart TEST END=========================================
+2024-03-29 14:06:50 INFO  Log:20 - =====================================testLogin TEST START=========================================
+2024-03-29 14:06:52 INFO  Log:24 - =====================================testLogin TEST END=========================================
+2024-03-29 14:06:54 INFO  Log:20 - =====================================testTitle TEST START=========================================
+2024-03-29 14:06:54 INFO  Log:24 - =====================================testTitle TEST END=========================================
+2024-03-29 14:06:56 INFO  Log:20 - =====================================testValidateLogo TEST START=========================================
+2024-03-29 14:06:56 INFO  Log:24 - =====================================testValidateLogo TEST END=========================================
+2024-03-29 14:06:58 INFO  Log:20 - =====================================testCheckout TEST START=========================================
+2024-03-29 14:06:59 INFO  Log:31 - --user is going to enter credentials--
+2024-03-29 14:07:00 INFO  Log:31 - --user is searching camera products--
+2024-03-29 14:07:00 INFO  Log:31 - --click on product--
+2024-03-29 14:07:01 INFO  Log:31 - --click on add to cart--
+2024-03-29 14:07:01 INFO  Log:31 - --validating product added to cart--
+2024-03-29 14:07:02 INFO  Log:31 - --moving to cart--
+2024-03-29 14:07:02 INFO  Log:31 - --click on checkout--
+2024-03-29 14:07:03 INFO  Log:31 - --verify user is in checkoutpage--
+2024-03-29 14:07:03 INFO  Log:24 - =====================================testCheckout TEST END=========================================
+2024-03-29 14:14:22 INFO  Log:20 - =====================================testvalidatOrderHistory TEST START=========================================
+2024-03-29 14:14:24 INFO  Log:24 - =====================================testvalidatOrderHistory TEST END=========================================
+2024-03-29 14:14:26 INFO  Log:20 - =====================================testSearchCamera TEST START=========================================
+2024-03-29 14:14:28 INFO  Log:24 - =====================================testSearchCamera TEST END=========================================
+2024-03-29 14:14:29 INFO  Log:20 - =====================================testaddToCart TEST START=========================================
+2024-03-29 14:14:34 INFO  Log:24 - =====================================testaddToCart TEST END=========================================
+2024-03-29 14:14:36 INFO  Log:20 - =====================================testLogin TEST START=========================================
+2024-03-29 14:14:38 INFO  Log:24 - =====================================testLogin TEST END=========================================
+2024-03-29 14:14:39 INFO  Log:20 - =====================================testTitle TEST START=========================================
+2024-03-29 14:14:39 INFO  Log:24 - =====================================testTitle TEST END=========================================
+2024-03-29 14:14:41 INFO  Log:20 - =====================================testValidateLogo TEST START=========================================
+2024-03-29 14:14:41 INFO  Log:24 - =====================================testValidateLogo TEST END=========================================
+2024-03-29 14:14:43 INFO  Log:20 - =====================================testCheckout TEST START=========================================
+2024-03-29 14:14:44 INFO  Log:31 - --user is going to enter credentials--
+2024-03-29 14:14:45 INFO  Log:31 - --user is searching camera products--
+2024-03-29 14:14:46 INFO  Log:31 - --click on product--
+2024-03-29 14:14:47 INFO  Log:31 - --click on add to cart--
+2024-03-29 14:14:47 INFO  Log:31 - --validating product added to cart--
+2024-03-29 14:14:47 INFO  Log:31 - --moving to cart--
+2024-03-29 14:14:48 INFO  Log:31 - --click on checkout--
+2024-03-29 14:14:48 INFO  Log:31 - --verify user is in checkoutpage--
+2024-03-29 14:14:48 INFO  Log:24 - =====================================testCheckout TEST END=========================================
+2024-03-29 14:17:46 INFO  Log:20 - =====================================testvalidatOrderHistory TEST START=========================================
+2024-03-29 14:17:48 INFO  Log:24 - =====================================testvalidatOrderHistory TEST END=========================================
+2024-03-29 14:17:50 INFO  Log:20 - =====================================testSearchCamera TEST START=========================================
+2024-03-29 14:17:52 INFO  Log:24 - =====================================testSearchCamera TEST END=========================================
+2024-03-29 14:17:53 INFO  Log:20 - =====================================testaddToCart TEST START=========================================
+2024-03-29 14:17:58 INFO  Log:24 - =====================================testaddToCart TEST END=========================================
+2024-03-29 14:18:02 INFO  Log:20 - =====================================testLogin TEST START=========================================
+2024-03-29 14:18:04 INFO  Log:24 - =====================================testLogin TEST END=========================================
+2024-03-29 14:18:06 INFO  Log:20 - =====================================testTitle TEST START=========================================
+2024-03-29 14:18:06 INFO  Log:24 - =====================================testTitle TEST END=========================================
+2024-03-29 14:18:07 INFO  Log:20 - =====================================testValidateLogo TEST START=========================================
+2024-03-29 14:18:07 INFO  Log:24 - =====================================testValidateLogo TEST END=========================================
+2024-03-29 14:18:09 INFO  Log:20 - =====================================testCheckout TEST START=========================================
+2024-03-29 14:18:10 INFO  Log:31 - --user is going to enter credentials--
+2024-03-29 14:18:11 INFO  Log:31 - --user is searching camera products--
+2024-03-29 14:18:12 INFO  Log:31 - --click on product--
+2024-03-29 14:18:13 INFO  Log:31 - --click on add to cart--
+2024-03-29 14:18:13 INFO  Log:31 - --validating product added to cart--
+2024-03-29 14:18:13 INFO  Log:31 - --moving to cart--
+2024-03-29 14:18:14 INFO  Log:31 - --click on checkout--
+2024-03-29 14:18:14 INFO  Log:31 - --verify user is in checkoutpage--
+2024-03-29 14:18:14 INFO  Log:24 - =====================================testCheckout TEST END=========================================
+2024-03-29 14:24:35 INFO  Log:20 - =====================================testvalidatOrderHistory TEST START=========================================
+2024-03-29 14:24:37 INFO  Log:24 - =====================================testvalidatOrderHistory TEST END=========================================
+2024-03-29 14:24:39 INFO  Log:20 - =====================================testSearchCamera TEST START=========================================
+2024-03-29 14:24:41 INFO  Log:24 - =====================================testSearchCamera TEST END=========================================
+2024-03-29 14:24:42 INFO  Log:20 - =====================================testaddToCart TEST START=========================================
+2024-03-29 14:24:47 INFO  Log:24 - =====================================testaddToCart TEST END=========================================
+2024-03-29 14:24:48 INFO  Log:20 - =====================================testLogin TEST START=========================================
+2024-03-29 14:24:50 INFO  Log:24 - =====================================testLogin TEST END=========================================
+2024-03-29 14:24:52 INFO  Log:20 - =====================================testTitle TEST START=========================================
+2024-03-29 14:24:52 INFO  Log:24 - =====================================testTitle TEST END=========================================
+2024-03-29 14:24:54 INFO  Log:20 - =====================================testValidateLogo TEST START=========================================
+2024-03-29 14:24:54 INFO  Log:24 - =====================================testValidateLogo TEST END=========================================
+2024-03-29 14:24:55 INFO  Log:20 - =====================================testCheckout TEST START=========================================
+2024-03-29 14:24:56 INFO  Log:31 - --user is going to enter credentials--
+2024-03-29 14:24:57 INFO  Log:31 - --user is searching camera products--
+2024-03-29 14:24:58 INFO  Log:31 - --click on product--
+2024-03-29 14:24:59 INFO  Log:31 - --click on add to cart--
+2024-03-29 14:24:59 INFO  Log:31 - --validating product added to cart--
+2024-03-29 14:24:59 INFO  Log:31 - --moving to cart--
+2024-03-29 14:25:00 INFO  Log:31 - --click on checkout--
+2024-03-29 14:25:00 INFO  Log:31 - --verify user is in checkoutpage--
+2024-03-29 14:25:00 INFO  Log:24 - =====================================testCheckout TEST END=========================================
+2024-03-29 14:32:16 INFO  Log:20 - =====================================testvalidatOrderHistory TEST START=========================================
+2024-03-29 14:32:18 INFO  Log:24 - =====================================testvalidatOrderHistory TEST END=========================================
+2024-03-29 14:32:20 INFO  Log:20 - =====================================testSearchCamera TEST START=========================================
+2024-03-29 14:32:22 INFO  Log:24 - =====================================testSearchCamera TEST END=========================================
+2024-03-29 14:32:24 INFO  Log:20 - =====================================testaddToCart TEST START=========================================
+2024-03-29 14:32:29 INFO  Log:24 - =====================================testaddToCart TEST END=========================================
+2024-03-29 14:32:31 INFO  Log:20 - =====================================testLogin TEST START=========================================
+2024-03-29 14:32:33 INFO  Log:24 - =====================================testLogin TEST END=========================================
+2024-03-29 14:32:35 INFO  Log:20 - =====================================testTitle TEST START=========================================
+2024-03-29 14:32:35 INFO  Log:24 - =====================================testTitle TEST END=========================================
+2024-03-29 14:32:36 INFO  Log:20 - =====================================testValidateLogo TEST START=========================================
+2024-03-29 14:32:36 INFO  Log:24 - =====================================testValidateLogo TEST END=========================================
+2024-03-29 14:32:38 INFO  Log:20 - =====================================testCheckout TEST START=========================================
+2024-03-29 14:32:39 INFO  Log:31 - --user is going to enter credentials--
+2024-03-29 14:32:40 INFO  Log:31 - --user is searching camera products--
+2024-03-29 14:32:41 INFO  Log:31 - --click on product--
+2024-03-29 14:32:42 INFO  Log:31 - --click on add to cart--
+2024-03-29 14:32:42 INFO  Log:31 - --validating product added to cart--
+2024-03-29 14:32:42 INFO  Log:31 - --moving to cart--
+2024-03-29 14:32:43 INFO  Log:31 - --click on checkout--
+2024-03-29 14:32:43 INFO  Log:31 - --verify user is in checkoutpage--
+2024-03-29 14:32:43 INFO  Log:24 - =====================================testCheckout TEST END=========================================
+2024-03-29 14:44:15 INFO  Log:20 - =====================================testvalidatOrderHistory TEST START=========================================
+2024-03-29 14:44:17 INFO  Log:24 - =====================================testvalidatOrderHistory TEST END=========================================
+2024-03-29 14:44:19 INFO  Log:20 - =====================================testSearchCamera TEST START=========================================
+2024-03-29 14:44:21 INFO  Log:24 - =====================================testSearchCamera TEST END=========================================
+2024-03-29 14:44:23 INFO  Log:20 - =====================================testaddToCart TEST START=========================================
+2024-03-29 14:44:27 INFO  Log:24 - =====================================testaddToCart TEST END=========================================
+2024-03-29 14:44:29 INFO  Log:20 - =====================================testLogin TEST START=========================================
+2024-03-29 14:44:31 INFO  Log:24 - =====================================testLogin TEST END=========================================
+2024-03-29 14:44:33 INFO  Log:20 - =====================================testTitle TEST START=========================================
+2024-03-29 14:44:33 INFO  Log:24 - =====================================testTitle TEST END=========================================
+2024-03-29 14:44:35 INFO  Log:20 - =====================================testValidateLogo TEST START=========================================
+2024-03-29 14:44:35 INFO  Log:24 - =====================================testValidateLogo TEST END=========================================
+2024-03-29 14:44:36 INFO  Log:20 - =====================================testCheckout TEST START=========================================
+2024-03-29 14:44:37 INFO  Log:31 - --user is going to enter credentials--
+2024-03-29 14:44:39 INFO  Log:31 - --user is searching camera products--
+2024-03-29 14:44:39 INFO  Log:31 - --click on product--
+2024-03-29 14:44:40 INFO  Log:31 - --click on add to cart--
+2024-03-29 14:44:40 INFO  Log:31 - --validating product added to cart--
+2024-03-29 14:44:40 INFO  Log:31 - --moving to cart--
+2024-03-29 14:44:41 INFO  Log:31 - --click on checkout--
+2024-03-29 14:44:42 INFO  Log:31 - --verify user is in checkoutpage--
+2024-03-29 14:44:42 INFO  Log:24 - =====================================testCheckout TEST END=========================================
+2024-03-29 14:44:42 INFO  Log:31 - inside aftersuite
+2024-03-29 14:44:42 DEBUG cache:45 - Couldn't find template in cache for "v3html/v3-html-index.ftl"("en", UTF-8, parsed); will try to load it.
+2024-03-29 14:44:42 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-index_en.ftl"): Not found
+2024-03-29 14:44:42 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-index.ftl"): Found
+2024-03-29 14:44:42 DEBUG cache:45 - Loading template for "v3html/v3-html-index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/harik/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/v3-html-index.ftl"
+2024-03-29 14:44:42 DEBUG cache:45 - Couldn't find template in cache for "v3html/v3-html-head.ftl"("en", UTF-8, parsed); will try to load it.
+2024-03-29 14:44:42 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-head_en.ftl"): Not found
+2024-03-29 14:44:42 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-head.ftl"): Found
+2024-03-29 14:44:42 DEBUG cache:45 - Loading template for "v3html/v3-html-head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/harik/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/v3-html-head.ftl"
+2024-03-29 14:44:42 DEBUG cache:45 - Couldn't find template in cache for "v3html/v3-html-nav.ftl"("en", UTF-8, parsed); will try to load it.
+2024-03-29 14:44:42 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-nav_en.ftl"): Not found
+2024-03-29 14:44:42 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-nav.ftl"): Found
+2024-03-29 14:44:42 DEBUG cache:45 - Loading template for "v3html/v3-html-nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/harik/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/v3-html-nav.ftl"
+2024-03-29 14:44:42 DEBUG cache:45 - Couldn't find template in cache for "v3html/test-view/v3-html-test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2024-03-29 14:44:42 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view_en.ftl"): Not found
+2024-03-29 14:44:42 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view.ftl"): Found
+2024-03-29 14:44:42 DEBUG cache:45 - Loading template for "v3html/test-view/v3-html-test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/harik/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-test-view.ftl"
+2024-03-29 14:44:42 DEBUG cache:45 - Couldn't find template in cache for "v3html/test-view/v3-html-test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2024-03-29 14:44:42 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view-charts_en.ftl"): Not found
+2024-03-29 14:44:42 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view-charts.ftl"): Found
+2024-03-29 14:44:42 DEBUG cache:45 - Loading template for "v3html/test-view/v3-html-test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/harik/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-test-view-charts.ftl"
+2024-03-29 14:44:42 DEBUG cache:45 - Couldn't find template in cache for "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed); will try to load it.
+2024-03-29 14:44:42 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-standard_en.ftl"): Not found
+2024-03-29 14:44:42 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-standard.ftl"): Found
+2024-03-29 14:44:42 DEBUG cache:45 - Loading template for "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/harik/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-standard.ftl"
+2024-03-29 14:44:42 DEBUG cache:45 - "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2024-03-29 14:44:42 DEBUG cache:45 - "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2024-03-29 14:44:42 DEBUG cache:45 - "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2024-03-29 14:44:42 DEBUG cache:45 - "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2024-03-29 14:44:42 DEBUG cache:45 - "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2024-03-29 14:44:42 DEBUG cache:45 - "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2024-03-29 14:44:42 DEBUG cache:45 - Couldn't find template in cache for "v3html/category-view/v3-html-category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2024-03-29 14:44:42 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/category-view/v3-html-category-view_en.ftl"): Not found
+2024-03-29 14:44:42 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/category-view/v3-html-category-view.ftl"): Found
+2024-03-29 14:44:42 DEBUG cache:45 - Loading template for "v3html/category-view/v3-html-category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/harik/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/category-view/v3-html-category-view.ftl"
+2024-03-29 14:44:42 DEBUG cache:45 - Couldn't find template in cache for "v3html/exception-view/v3-html-exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+2024-03-29 14:44:42 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/exception-view/v3-html-exception-view_en.ftl"): Not found
+2024-03-29 14:44:42 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/exception-view/v3-html-exception-view.ftl"): Found
+2024-03-29 14:44:42 DEBUG cache:45 - Loading template for "v3html/exception-view/v3-html-exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/harik/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/exception-view/v3-html-exception-view.ftl"
+2024-03-29 14:44:42 DEBUG cache:45 - Couldn't find template in cache for "v3html/author-view/v3-html-author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2024-03-29 14:44:42 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/author-view/v3-html-author-view_en.ftl"): Not found
+2024-03-29 14:44:42 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/author-view/v3-html-author-view.ftl"): Found
+2024-03-29 14:44:42 DEBUG cache:45 - Loading template for "v3html/author-view/v3-html-author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/harik/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/author-view/v3-html-author-view.ftl"
+2024-03-29 14:44:42 DEBUG cache:45 - Couldn't find template in cache for "v3html/dashboard-view/v3-html-dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+2024-03-29 14:44:42 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/dashboard-view/v3-html-dashboard-view_en.ftl"): Not found
+2024-03-29 14:44:42 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/dashboard-view/v3-html-dashboard-view.ftl"): Found
+2024-03-29 14:44:42 DEBUG cache:45 - Loading template for "v3html/dashboard-view/v3-html-dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/harik/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/dashboard-view/v3-html-dashboard-view.ftl"
+2024-03-29 14:44:42 DEBUG cache:45 - Couldn't find template in cache for "v3html/logs-view/v3-html-testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+2024-03-29 14:44:42 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/logs-view/v3-html-testrunner-logs-view_en.ftl"): Not found
+2024-03-29 14:44:42 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/logs-view/v3-html-testrunner-logs-view.ftl"): Found
+2024-03-29 14:44:42 DEBUG cache:45 - Loading template for "v3html/logs-view/v3-html-testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/harik/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/logs-view/v3-html-testrunner-logs-view.ftl"
+2024-03-29 14:50:35 INFO  Log:20 - =====================================testvalidatOrderHistory TEST START=========================================
+2024-03-29 14:50:37 INFO  Log:24 - =====================================testvalidatOrderHistory TEST END=========================================
+2024-03-29 14:50:39 INFO  Log:20 - =====================================testSearchCamera TEST START=========================================
+2024-03-29 14:50:41 INFO  Log:24 - =====================================testSearchCamera TEST END=========================================
+2024-03-29 14:50:42 INFO  Log:20 - =====================================testaddToCart TEST START=========================================
+2024-03-29 14:50:47 INFO  Log:24 - =====================================testaddToCart TEST END=========================================
+2024-03-29 14:50:49 INFO  Log:20 - =====================================testLogin TEST START=========================================
+2024-03-29 14:50:51 INFO  Log:24 - =====================================testLogin TEST END=========================================
+2024-03-29 14:50:53 INFO  Log:20 - =====================================testTitle TEST START=========================================
+2024-03-29 14:50:53 INFO  Log:24 - =====================================testTitle TEST END=========================================
+2024-03-29 14:50:54 INFO  Log:20 - =====================================testValidateLogo TEST START=========================================
+2024-03-29 14:50:54 INFO  Log:24 - =====================================testValidateLogo TEST END=========================================
+2024-03-29 14:50:56 INFO  Log:20 - =====================================testCheckout TEST START=========================================
+2024-03-29 14:50:57 INFO  Log:31 - --user is going to enter credentials--
+2024-03-29 14:50:58 INFO  Log:31 - --user is searching camera products--
+2024-03-29 14:50:59 INFO  Log:31 - --click on product--
+2024-03-29 14:50:59 INFO  Log:31 - --click on add to cart--
+2024-03-29 14:51:00 INFO  Log:31 - --validating product added to cart--
+2024-03-29 14:51:00 INFO  Log:31 - --moving to cart--
+2024-03-29 14:51:00 INFO  Log:31 - --click on checkout--
+2024-03-29 14:51:01 INFO  Log:31 - --verify user is in checkoutpage--
+2024-03-29 14:51:01 INFO  Log:24 - =====================================testCheckout TEST END=========================================
+2024-03-29 14:51:01 INFO  Log:31 - inside aftersuite
+2024-03-29 14:51:01 DEBUG cache:45 - Couldn't find template in cache for "v3html/v3-html-index.ftl"("en", UTF-8, parsed); will try to load it.
+2024-03-29 14:51:01 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-index_en.ftl"): Not found
+2024-03-29 14:51:01 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-index.ftl"): Found
+2024-03-29 14:51:01 DEBUG cache:45 - Loading template for "v3html/v3-html-index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/harik/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/v3-html-index.ftl"
+2024-03-29 14:51:01 DEBUG cache:45 - Couldn't find template in cache for "v3html/v3-html-head.ftl"("en", UTF-8, parsed); will try to load it.
+2024-03-29 14:51:01 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-head_en.ftl"): Not found
+2024-03-29 14:51:01 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-head.ftl"): Found
+2024-03-29 14:51:01 DEBUG cache:45 - Loading template for "v3html/v3-html-head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/harik/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/v3-html-head.ftl"
+2024-03-29 14:51:01 DEBUG cache:45 - Couldn't find template in cache for "v3html/v3-html-nav.ftl"("en", UTF-8, parsed); will try to load it.
+2024-03-29 14:51:01 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-nav_en.ftl"): Not found
+2024-03-29 14:51:01 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-nav.ftl"): Found
+2024-03-29 14:51:01 DEBUG cache:45 - Loading template for "v3html/v3-html-nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/harik/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/v3-html-nav.ftl"
+2024-03-29 14:51:01 DEBUG cache:45 - Couldn't find template in cache for "v3html/test-view/v3-html-test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2024-03-29 14:51:01 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view_en.ftl"): Not found
+2024-03-29 14:51:01 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view.ftl"): Found
+2024-03-29 14:51:01 DEBUG cache:45 - Loading template for "v3html/test-view/v3-html-test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/harik/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-test-view.ftl"
+2024-03-29 14:51:01 DEBUG cache:45 - Couldn't find template in cache for "v3html/test-view/v3-html-test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2024-03-29 14:51:01 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view-charts_en.ftl"): Not found
+2024-03-29 14:51:01 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view-charts.ftl"): Found
+2024-03-29 14:51:01 DEBUG cache:45 - Loading template for "v3html/test-view/v3-html-test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/harik/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-test-view-charts.ftl"
+2024-03-29 14:51:01 DEBUG cache:45 - Couldn't find template in cache for "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed); will try to load it.
+2024-03-29 14:51:01 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-standard_en.ftl"): Not found
+2024-03-29 14:51:01 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-standard.ftl"): Found
+2024-03-29 14:51:01 DEBUG cache:45 - Loading template for "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/harik/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-standard.ftl"
+2024-03-29 14:51:02 DEBUG cache:45 - "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2024-03-29 14:51:02 DEBUG cache:45 - "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2024-03-29 14:51:02 DEBUG cache:45 - "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2024-03-29 14:51:02 DEBUG cache:45 - "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2024-03-29 14:51:02 DEBUG cache:45 - "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2024-03-29 14:51:02 DEBUG cache:45 - "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2024-03-29 14:51:02 DEBUG cache:45 - Couldn't find template in cache for "v3html/category-view/v3-html-category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2024-03-29 14:51:02 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/category-view/v3-html-category-view_en.ftl"): Not found
+2024-03-29 14:51:02 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/category-view/v3-html-category-view.ftl"): Found
+2024-03-29 14:51:02 DEBUG cache:45 - Loading template for "v3html/category-view/v3-html-category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/harik/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/category-view/v3-html-category-view.ftl"
+2024-03-29 14:51:02 DEBUG cache:45 - Couldn't find template in cache for "v3html/exception-view/v3-html-exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+2024-03-29 14:51:02 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/exception-view/v3-html-exception-view_en.ftl"): Not found
+2024-03-29 14:51:02 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/exception-view/v3-html-exception-view.ftl"): Found
+2024-03-29 14:51:02 DEBUG cache:45 - Loading template for "v3html/exception-view/v3-html-exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/harik/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/exception-view/v3-html-exception-view.ftl"
+2024-03-29 14:51:02 DEBUG cache:45 - Couldn't find template in cache for "v3html/author-view/v3-html-author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2024-03-29 14:51:02 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/author-view/v3-html-author-view_en.ftl"): Not found
+2024-03-29 14:51:02 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/author-view/v3-html-author-view.ftl"): Found
+2024-03-29 14:51:02 DEBUG cache:45 - Loading template for "v3html/author-view/v3-html-author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/harik/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/author-view/v3-html-author-view.ftl"
+2024-03-29 14:51:02 DEBUG cache:45 - Couldn't find template in cache for "v3html/dashboard-view/v3-html-dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+2024-03-29 14:51:02 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/dashboard-view/v3-html-dashboard-view_en.ftl"): Not found
+2024-03-29 14:51:02 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/dashboard-view/v3-html-dashboard-view.ftl"): Found
+2024-03-29 14:51:02 DEBUG cache:45 - Loading template for "v3html/dashboard-view/v3-html-dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/harik/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/dashboard-view/v3-html-dashboard-view.ftl"
+2024-03-29 14:51:02 DEBUG cache:45 - Couldn't find template in cache for "v3html/logs-view/v3-html-testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+2024-03-29 14:51:02 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/logs-view/v3-html-testrunner-logs-view_en.ftl"): Not found
+2024-03-29 14:51:02 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/logs-view/v3-html-testrunner-logs-view.ftl"): Found
+2024-03-29 14:51:02 DEBUG cache:45 - Loading template for "v3html/logs-view/v3-html-testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/harik/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/logs-view/v3-html-testrunner-logs-view.ftl"
+2024-03-29 14:56:57 INFO  Log:20 - =====================================testvalidatOrderHistory TEST START=========================================
+2024-03-29 14:56:59 INFO  Log:24 - =====================================testvalidatOrderHistory TEST END=========================================
+2024-03-29 14:57:01 INFO  Log:20 - =====================================testSearchCamera TEST START=========================================
+2024-03-29 14:57:03 INFO  Log:24 - =====================================testSearchCamera TEST END=========================================
+2024-03-29 14:57:05 INFO  Log:20 - =====================================testaddToCart TEST START=========================================
+2024-03-29 14:57:09 INFO  Log:24 - =====================================testaddToCart TEST END=========================================
+2024-03-29 14:57:11 INFO  Log:20 - =====================================testLogin TEST START=========================================
+2024-03-29 14:57:13 INFO  Log:24 - =====================================testLogin TEST END=========================================
+2024-03-29 14:57:15 INFO  Log:20 - =====================================testTitle TEST START=========================================
+2024-03-29 14:57:15 INFO  Log:24 - =====================================testTitle TEST END=========================================
+2024-03-29 14:57:17 INFO  Log:20 - =====================================testValidateLogo TEST START=========================================
+2024-03-29 14:57:17 INFO  Log:24 - =====================================testValidateLogo TEST END=========================================
+2024-03-29 14:57:18 INFO  Log:20 - =====================================testCheckout TEST START=========================================
+2024-03-29 14:57:19 INFO  Log:31 - --user is going to enter credentials--
+2024-03-29 14:57:21 INFO  Log:31 - --user is searching camera products--
+2024-03-29 14:57:21 INFO  Log:31 - --click on product--
+2024-03-29 14:57:22 INFO  Log:31 - --click on add to cart--
+2024-03-29 14:57:22 INFO  Log:31 - --validating product added to cart--
+2024-03-29 14:57:22 INFO  Log:31 - --moving to cart--
+2024-03-29 14:57:23 INFO  Log:31 - --click on checkout--
+2024-03-29 14:57:24 INFO  Log:31 - --verify user is in checkoutpage--
+2024-03-29 14:57:24 INFO  Log:24 - =====================================testCheckout TEST END=========================================
+2024-03-29 14:57:24 INFO  Log:31 - inside aftersuite
+2024-03-29 14:57:24 DEBUG cache:45 - Couldn't find template in cache for "spark/spark.spa.ftl"("en_US", UTF-8, parsed); will try to load it.
+2024-03-29 14:57:24 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/spark.spa_en_US.ftl"): Not found
+2024-03-29 14:57:24 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/spark.spa_en.ftl"): Not found
+2024-03-29 14:57:24 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/spark.spa.ftl"): Found
+2024-03-29 14:57:24 DEBUG cache:45 - Loading template for "spark/spark.spa.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/harik/.m2/repository/com/aventstack/extentreports/5.1.1/extentreports-5.1.1.jar!/com/aventstack/extentreports/templates/spark/spark.spa.ftl"
+2024-03-29 14:57:24 DEBUG cache:45 - Couldn't find template in cache for "commons/commons-variables.ftl"("en_US", UTF-8, parsed); will try to load it.
+2024-03-29 14:57:24 DEBUG cache:45 - TemplateLoader.findTemplateSource("commons/commons-variables_en_US.ftl"): Not found
+2024-03-29 14:57:24 DEBUG cache:45 - TemplateLoader.findTemplateSource("commons/commons-variables_en.ftl"): Not found
+2024-03-29 14:57:24 DEBUG cache:45 - TemplateLoader.findTemplateSource("commons/commons-variables.ftl"): Found
+2024-03-29 14:57:24 DEBUG cache:45 - Loading template for "commons/commons-variables.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/harik/.m2/repository/com/aventstack/extentreports/5.1.1/extentreports-5.1.1.jar!/com/aventstack/extentreports/templates/commons/commons-variables.ftl"
+2024-03-29 14:57:24 DEBUG cache:45 - Couldn't find template in cache for "commons/commons-macros.ftl"("en_US", UTF-8, parsed); will try to load it.
+2024-03-29 14:57:24 DEBUG cache:45 - TemplateLoader.findTemplateSource("commons/commons-macros_en_US.ftl"): Not found
+2024-03-29 14:57:24 DEBUG cache:45 - TemplateLoader.findTemplateSource("commons/commons-macros_en.ftl"): Not found
+2024-03-29 14:57:24 DEBUG cache:45 - TemplateLoader.findTemplateSource("commons/commons-macros.ftl"): Found
+2024-03-29 14:57:24 DEBUG cache:45 - Loading template for "commons/commons-macros.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/harik/.m2/repository/com/aventstack/extentreports/5.1.1/extentreports-5.1.1.jar!/com/aventstack/extentreports/templates/commons/commons-macros.ftl"
+2024-03-29 14:57:24 DEBUG cache:45 - Couldn't find template in cache for "spark/macros/attributes.ftl"("en_US", UTF-8, parsed); will try to load it.
+2024-03-29 14:57:24 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/macros/attributes_en_US.ftl"): Not found
+2024-03-29 14:57:24 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/macros/attributes_en.ftl"): Not found
+2024-03-29 14:57:24 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/macros/attributes.ftl"): Found
+2024-03-29 14:57:24 DEBUG cache:45 - Loading template for "spark/macros/attributes.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/harik/.m2/repository/com/aventstack/extentreports/5.1.1/extentreports-5.1.1.jar!/com/aventstack/extentreports/templates/spark/macros/attributes.ftl"
+2024-03-29 14:57:24 DEBUG cache:45 - Couldn't find template in cache for "spark/macros/log.ftl"("en_US", UTF-8, parsed); will try to load it.
+2024-03-29 14:57:24 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/macros/log_en_US.ftl"): Not found
+2024-03-29 14:57:24 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/macros/log_en.ftl"): Not found
+2024-03-29 14:57:24 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/macros/log.ftl"): Found
+2024-03-29 14:57:24 DEBUG cache:45 - Loading template for "spark/macros/log.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/harik/.m2/repository/com/aventstack/extentreports/5.1.1/extentreports-5.1.1.jar!/com/aventstack/extentreports/templates/spark/macros/log.ftl"
+2024-03-29 14:57:24 DEBUG cache:45 - Couldn't find template in cache for "spark/macros/recurse_nodes.ftl"("en_US", UTF-8, parsed); will try to load it.
+2024-03-29 14:57:24 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes_en_US.ftl"): Not found
+2024-03-29 14:57:24 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes_en.ftl"): Not found
+2024-03-29 14:57:24 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes.ftl"): Found
+2024-03-29 14:57:24 DEBUG cache:45 - Loading template for "spark/macros/recurse_nodes.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/harik/.m2/repository/com/aventstack/extentreports/5.1.1/extentreports-5.1.1.jar!/com/aventstack/extentreports/templates/spark/macros/recurse_nodes.ftl"
+2024-03-29 14:57:24 DEBUG cache:45 - "spark/macros/log.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2024-03-29 14:57:24 DEBUG cache:45 - Couldn't find template in cache for "spark/macros/attr-common.ftl"("en_US", UTF-8, parsed); will try to load it.
+2024-03-29 14:57:24 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/macros/attr-common_en_US.ftl"): Not found
+2024-03-29 14:57:24 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/macros/attr-common_en.ftl"): Not found
+2024-03-29 14:57:24 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/macros/attr-common.ftl"): Found
+2024-03-29 14:57:24 DEBUG cache:45 - Loading template for "spark/macros/attr-common.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/harik/.m2/repository/com/aventstack/extentreports/5.1.1/extentreports-5.1.1.jar!/com/aventstack/extentreports/templates/spark/macros/attr-common.ftl"
+2024-03-29 14:57:24 DEBUG cache:45 - Couldn't find template in cache for "spark/partials/head.ftl"("en_US", UTF-8, parsed); will try to load it.
+2024-03-29 14:57:24 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/head_en_US.ftl"): Not found
+2024-03-29 14:57:24 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/head_en.ftl"): Not found
+2024-03-29 14:57:24 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/head.ftl"): Found
+2024-03-29 14:57:24 DEBUG cache:45 - Loading template for "spark/partials/head.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/harik/.m2/repository/com/aventstack/extentreports/5.1.1/extentreports-5.1.1.jar!/com/aventstack/extentreports/templates/spark/partials/head.ftl"
+2024-03-29 14:57:24 DEBUG cache:45 - Couldn't find template in cache for "commons/commons-inject-css.ftl"("en_US", UTF-8, parsed); will try to load it.
+2024-03-29 14:57:24 DEBUG cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-css_en_US.ftl"): Not found
+2024-03-29 14:57:24 DEBUG cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-css_en.ftl"): Not found
+2024-03-29 14:57:24 DEBUG cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-css.ftl"): Found
+2024-03-29 14:57:24 DEBUG cache:45 - Loading template for "commons/commons-inject-css.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/harik/.m2/repository/com/aventstack/extentreports/5.1.1/extentreports-5.1.1.jar!/com/aventstack/extentreports/templates/commons/commons-inject-css.ftl"
+2024-03-29 14:57:24 DEBUG cache:45 - Couldn't find template in cache for "spark/partials/navbar.ftl"("en_US", UTF-8, parsed); will try to load it.
+2024-03-29 14:57:24 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/navbar_en_US.ftl"): Not found
+2024-03-29 14:57:24 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/navbar_en.ftl"): Not found
+2024-03-29 14:57:24 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/navbar.ftl"): Found
+2024-03-29 14:57:24 DEBUG cache:45 - Loading template for "spark/partials/navbar.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/harik/.m2/repository/com/aventstack/extentreports/5.1.1/extentreports-5.1.1.jar!/com/aventstack/extentreports/templates/spark/partials/navbar.ftl"
+2024-03-29 14:57:24 DEBUG cache:45 - Couldn't find template in cache for "spark/partials/sidenav.ftl"("en_US", UTF-8, parsed); will try to load it.
+2024-03-29 14:57:24 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/sidenav_en_US.ftl"): Not found
+2024-03-29 14:57:24 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/sidenav_en.ftl"): Not found
+2024-03-29 14:57:24 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/sidenav.ftl"): Found
+2024-03-29 14:57:24 DEBUG cache:45 - Loading template for "spark/partials/sidenav.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/harik/.m2/repository/com/aventstack/extentreports/5.1.1/extentreports-5.1.1.jar!/com/aventstack/extentreports/templates/spark/partials/sidenav.ftl"
+2024-03-29 14:57:24 DEBUG cache:45 - Couldn't find template in cache for "spark/partials/test.ftl"("en_US", UTF-8, parsed); will try to load it.
+2024-03-29 14:57:24 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/test_en_US.ftl"): Not found
+2024-03-29 14:57:24 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/test_en.ftl"): Not found
+2024-03-29 14:57:24 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/test.ftl"): Found
+2024-03-29 14:57:24 DEBUG cache:45 - Loading template for "spark/partials/test.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/harik/.m2/repository/com/aventstack/extentreports/5.1.1/extentreports-5.1.1.jar!/com/aventstack/extentreports/templates/spark/partials/test.ftl"
+2024-03-29 14:57:24 DEBUG cache:45 - Couldn't find template in cache for "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed); will try to load it.
+2024-03-29 14:57:24 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/standard-content_en_US.ftl"): Not found
+2024-03-29 14:57:24 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/standard-content_en.ftl"): Not found
+2024-03-29 14:57:24 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/standard-content.ftl"): Found
+2024-03-29 14:57:24 DEBUG cache:45 - Loading template for "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/harik/.m2/repository/com/aventstack/extentreports/5.1.1/extentreports-5.1.1.jar!/com/aventstack/extentreports/templates/spark/partials/standard-content.ftl"
+2024-03-29 14:57:24 DEBUG cache:45 - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2024-03-29 14:57:24 DEBUG cache:45 - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2024-03-29 14:57:24 DEBUG cache:45 - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2024-03-29 14:57:24 DEBUG cache:45 - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2024-03-29 14:57:24 DEBUG cache:45 - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2024-03-29 14:57:24 DEBUG cache:45 - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2024-03-29 14:57:24 DEBUG cache:45 - Couldn't find template in cache for "spark/partials/exception.ftl"("en_US", UTF-8, parsed); will try to load it.
+2024-03-29 14:57:24 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/exception_en_US.ftl"): Not found
+2024-03-29 14:57:24 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/exception_en.ftl"): Not found
+2024-03-29 14:57:24 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/exception.ftl"): Found
+2024-03-29 14:57:24 DEBUG cache:45 - Loading template for "spark/partials/exception.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/harik/.m2/repository/com/aventstack/extentreports/5.1.1/extentreports-5.1.1.jar!/com/aventstack/extentreports/templates/spark/partials/exception.ftl"
+2024-03-29 14:57:24 DEBUG cache:45 - Couldn't find template in cache for "spark/partials/category.ftl"("en_US", UTF-8, parsed); will try to load it.
+2024-03-29 14:57:24 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/category_en_US.ftl"): Not found
+2024-03-29 14:57:24 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/category_en.ftl"): Not found
+2024-03-29 14:57:24 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/category.ftl"): Found
+2024-03-29 14:57:24 DEBUG cache:45 - Loading template for "spark/partials/category.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/harik/.m2/repository/com/aventstack/extentreports/5.1.1/extentreports-5.1.1.jar!/com/aventstack/extentreports/templates/spark/partials/category.ftl"
+2024-03-29 14:57:24 DEBUG cache:45 - Couldn't find template in cache for "spark/partials/device.ftl"("en_US", UTF-8, parsed); will try to load it.
+2024-03-29 14:57:24 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/device_en_US.ftl"): Not found
+2024-03-29 14:57:24 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/device_en.ftl"): Not found
+2024-03-29 14:57:24 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/device.ftl"): Found
+2024-03-29 14:57:24 DEBUG cache:45 - Loading template for "spark/partials/device.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/harik/.m2/repository/com/aventstack/extentreports/5.1.1/extentreports-5.1.1.jar!/com/aventstack/extentreports/templates/spark/partials/device.ftl"
+2024-03-29 14:57:24 DEBUG cache:45 - Couldn't find template in cache for "spark/partials/author.ftl"("en_US", UTF-8, parsed); will try to load it.
+2024-03-29 14:57:24 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/author_en_US.ftl"): Not found
+2024-03-29 14:57:24 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/author_en.ftl"): Not found
+2024-03-29 14:57:24 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/author.ftl"): Found
+2024-03-29 14:57:24 DEBUG cache:45 - Loading template for "spark/partials/author.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/harik/.m2/repository/com/aventstack/extentreports/5.1.1/extentreports-5.1.1.jar!/com/aventstack/extentreports/templates/spark/partials/author.ftl"
+2024-03-29 14:57:24 DEBUG cache:45 - Couldn't find template in cache for "spark/partials/log.ftl"("en_US", UTF-8, parsed); will try to load it.
+2024-03-29 14:57:24 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/log_en_US.ftl"): Not found
+2024-03-29 14:57:24 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/log_en.ftl"): Not found
+2024-03-29 14:57:24 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/log.ftl"): Found
+2024-03-29 14:57:24 DEBUG cache:45 - Loading template for "spark/partials/log.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/harik/.m2/repository/com/aventstack/extentreports/5.1.1/extentreports-5.1.1.jar!/com/aventstack/extentreports/templates/spark/partials/log.ftl"
+2024-03-29 14:57:24 DEBUG cache:45 - Couldn't find template in cache for "spark/partials/dashboard.ftl"("en_US", UTF-8, parsed); will try to load it.
+2024-03-29 14:57:24 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/dashboard_en_US.ftl"): Not found
+2024-03-29 14:57:24 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/dashboard_en.ftl"): Not found
+2024-03-29 14:57:24 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/dashboard.ftl"): Found
+2024-03-29 14:57:24 DEBUG cache:45 - Loading template for "spark/partials/dashboard.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/harik/.m2/repository/com/aventstack/extentreports/5.1.1/extentreports-5.1.1.jar!/com/aventstack/extentreports/templates/spark/partials/dashboard.ftl"
+2024-03-29 14:57:24 DEBUG cache:45 - Couldn't find template in cache for "spark/partials/scripts.ftl"("en_US", UTF-8, parsed); will try to load it.
+2024-03-29 14:57:24 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/scripts_en_US.ftl"): Not found
+2024-03-29 14:57:24 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/scripts_en.ftl"): Not found
+2024-03-29 14:57:24 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/scripts.ftl"): Found
+2024-03-29 14:57:24 DEBUG cache:45 - Loading template for "spark/partials/scripts.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/harik/.m2/repository/com/aventstack/extentreports/5.1.1/extentreports-5.1.1.jar!/com/aventstack/extentreports/templates/spark/partials/scripts.ftl"
+2024-03-29 14:57:24 DEBUG cache:45 - Couldn't find template in cache for "commons/commons-inject-js.ftl"("en_US", UTF-8, parsed); will try to load it.
+2024-03-29 14:57:24 DEBUG cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-js_en_US.ftl"): Not found
+2024-03-29 14:57:24 DEBUG cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-js_en.ftl"): Not found
+2024-03-29 14:57:24 DEBUG cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-js.ftl"): Found
+2024-03-29 14:57:24 DEBUG cache:45 - Loading template for "commons/commons-inject-js.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/harik/.m2/repository/com/aventstack/extentreports/5.1.1/extentreports-5.1.1.jar!/com/aventstack/extentreports/templates/commons/commons-inject-js.ftl"
+2024-03-29 14:59:45 INFO  Log:20 - =====================================testvalidatOrderHistory TEST START=========================================
+2024-03-29 14:59:48 INFO  Log:24 - =====================================testvalidatOrderHistory TEST END=========================================
+2024-03-29 14:59:50 INFO  Log:20 - =====================================testSearchCamera TEST START=========================================
+2024-03-29 14:59:51 INFO  Log:24 - =====================================testSearchCamera TEST END=========================================
+2024-03-29 14:59:53 INFO  Log:20 - =====================================testaddToCart TEST START=========================================
+2024-03-29 14:59:58 INFO  Log:24 - =====================================testaddToCart TEST END=========================================
+2024-03-29 15:00:00 INFO  Log:20 - =====================================testLogin TEST START=========================================
+2024-03-29 15:00:02 INFO  Log:24 - =====================================testLogin TEST END=========================================
+2024-03-29 15:00:04 INFO  Log:20 - =====================================testTitle TEST START=========================================
+2024-03-29 15:00:04 INFO  Log:24 - =====================================testTitle TEST END=========================================
+2024-03-29 15:00:06 INFO  Log:20 - =====================================testValidateLogo TEST START=========================================
+2024-03-29 15:00:06 INFO  Log:24 - =====================================testValidateLogo TEST END=========================================
+2024-03-29 15:00:08 INFO  Log:20 - =====================================testCheckout TEST START=========================================
+2024-03-29 15:00:09 INFO  Log:31 - --user is going to enter credentials--
+2024-03-29 15:00:10 INFO  Log:31 - --user is searching camera products--
+2024-03-29 15:00:11 INFO  Log:31 - --click on product--
+2024-03-29 15:00:13 INFO  Log:31 - --click on add to cart--
+2024-03-29 15:00:13 INFO  Log:31 - --validating product added to cart--
+2024-03-29 15:00:14 INFO  Log:31 - --moving to cart--
+2024-03-29 15:00:14 INFO  Log:31 - --click on checkout--
+2024-03-29 15:00:15 INFO  Log:31 - --verify user is in checkoutpage--
+2024-03-29 15:00:15 INFO  Log:24 - =====================================testCheckout TEST END=========================================
+2024-03-29 15:00:15 INFO  Log:31 - inside aftersuite
+2024-03-29 15:00:15 DEBUG cache:45 - Couldn't find template in cache for "spark/spark.spa.ftl"("en_US", UTF-8, parsed); will try to load it.
+2024-03-29 15:00:15 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/spark.spa_en_US.ftl"): Not found
+2024-03-29 15:00:15 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/spark.spa_en.ftl"): Not found
+2024-03-29 15:00:15 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/spark.spa.ftl"): Found
+2024-03-29 15:00:15 DEBUG cache:45 - Loading template for "spark/spark.spa.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/harik/.m2/repository/com/aventstack/extentreports/5.1.1/extentreports-5.1.1.jar!/com/aventstack/extentreports/templates/spark/spark.spa.ftl"
+2024-03-29 15:00:15 DEBUG cache:45 - Couldn't find template in cache for "commons/commons-variables.ftl"("en_US", UTF-8, parsed); will try to load it.
+2024-03-29 15:00:15 DEBUG cache:45 - TemplateLoader.findTemplateSource("commons/commons-variables_en_US.ftl"): Not found
+2024-03-29 15:00:15 DEBUG cache:45 - TemplateLoader.findTemplateSource("commons/commons-variables_en.ftl"): Not found
+2024-03-29 15:00:15 DEBUG cache:45 - TemplateLoader.findTemplateSource("commons/commons-variables.ftl"): Found
+2024-03-29 15:00:15 DEBUG cache:45 - Loading template for "commons/commons-variables.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/harik/.m2/repository/com/aventstack/extentreports/5.1.1/extentreports-5.1.1.jar!/com/aventstack/extentreports/templates/commons/commons-variables.ftl"
+2024-03-29 15:00:15 DEBUG cache:45 - Couldn't find template in cache for "commons/commons-macros.ftl"("en_US", UTF-8, parsed); will try to load it.
+2024-03-29 15:00:15 DEBUG cache:45 - TemplateLoader.findTemplateSource("commons/commons-macros_en_US.ftl"): Not found
+2024-03-29 15:00:15 DEBUG cache:45 - TemplateLoader.findTemplateSource("commons/commons-macros_en.ftl"): Not found
+2024-03-29 15:00:15 DEBUG cache:45 - TemplateLoader.findTemplateSource("commons/commons-macros.ftl"): Found
+2024-03-29 15:00:15 DEBUG cache:45 - Loading template for "commons/commons-macros.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/harik/.m2/repository/com/aventstack/extentreports/5.1.1/extentreports-5.1.1.jar!/com/aventstack/extentreports/templates/commons/commons-macros.ftl"
+2024-03-29 15:00:15 DEBUG cache:45 - Couldn't find template in cache for "spark/macros/attributes.ftl"("en_US", UTF-8, parsed); will try to load it.
+2024-03-29 15:00:15 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/macros/attributes_en_US.ftl"): Not found
+2024-03-29 15:00:15 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/macros/attributes_en.ftl"): Not found
+2024-03-29 15:00:15 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/macros/attributes.ftl"): Found
+2024-03-29 15:00:15 DEBUG cache:45 - Loading template for "spark/macros/attributes.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/harik/.m2/repository/com/aventstack/extentreports/5.1.1/extentreports-5.1.1.jar!/com/aventstack/extentreports/templates/spark/macros/attributes.ftl"
+2024-03-29 15:00:15 DEBUG cache:45 - Couldn't find template in cache for "spark/macros/log.ftl"("en_US", UTF-8, parsed); will try to load it.
+2024-03-29 15:00:15 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/macros/log_en_US.ftl"): Not found
+2024-03-29 15:00:15 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/macros/log_en.ftl"): Not found
+2024-03-29 15:00:15 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/macros/log.ftl"): Found
+2024-03-29 15:00:15 DEBUG cache:45 - Loading template for "spark/macros/log.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/harik/.m2/repository/com/aventstack/extentreports/5.1.1/extentreports-5.1.1.jar!/com/aventstack/extentreports/templates/spark/macros/log.ftl"
+2024-03-29 15:00:15 DEBUG cache:45 - Couldn't find template in cache for "spark/macros/recurse_nodes.ftl"("en_US", UTF-8, parsed); will try to load it.
+2024-03-29 15:00:15 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes_en_US.ftl"): Not found
+2024-03-29 15:00:15 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes_en.ftl"): Not found
+2024-03-29 15:00:15 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes.ftl"): Found
+2024-03-29 15:00:15 DEBUG cache:45 - Loading template for "spark/macros/recurse_nodes.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/harik/.m2/repository/com/aventstack/extentreports/5.1.1/extentreports-5.1.1.jar!/com/aventstack/extentreports/templates/spark/macros/recurse_nodes.ftl"
+2024-03-29 15:00:15 DEBUG cache:45 - "spark/macros/log.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2024-03-29 15:00:15 DEBUG cache:45 - Couldn't find template in cache for "spark/macros/attr-common.ftl"("en_US", UTF-8, parsed); will try to load it.
+2024-03-29 15:00:15 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/macros/attr-common_en_US.ftl"): Not found
+2024-03-29 15:00:15 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/macros/attr-common_en.ftl"): Not found
+2024-03-29 15:00:15 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/macros/attr-common.ftl"): Found
+2024-03-29 15:00:15 DEBUG cache:45 - Loading template for "spark/macros/attr-common.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/harik/.m2/repository/com/aventstack/extentreports/5.1.1/extentreports-5.1.1.jar!/com/aventstack/extentreports/templates/spark/macros/attr-common.ftl"
+2024-03-29 15:00:15 DEBUG cache:45 - Couldn't find template in cache for "spark/partials/head.ftl"("en_US", UTF-8, parsed); will try to load it.
+2024-03-29 15:00:15 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/head_en_US.ftl"): Not found
+2024-03-29 15:00:15 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/head_en.ftl"): Not found
+2024-03-29 15:00:15 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/head.ftl"): Found
+2024-03-29 15:00:15 DEBUG cache:45 - Loading template for "spark/partials/head.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/harik/.m2/repository/com/aventstack/extentreports/5.1.1/extentreports-5.1.1.jar!/com/aventstack/extentreports/templates/spark/partials/head.ftl"
+2024-03-29 15:00:15 DEBUG cache:45 - Couldn't find template in cache for "commons/commons-inject-css.ftl"("en_US", UTF-8, parsed); will try to load it.
+2024-03-29 15:00:15 DEBUG cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-css_en_US.ftl"): Not found
+2024-03-29 15:00:15 DEBUG cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-css_en.ftl"): Not found
+2024-03-29 15:00:15 DEBUG cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-css.ftl"): Found
+2024-03-29 15:00:15 DEBUG cache:45 - Loading template for "commons/commons-inject-css.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/harik/.m2/repository/com/aventstack/extentreports/5.1.1/extentreports-5.1.1.jar!/com/aventstack/extentreports/templates/commons/commons-inject-css.ftl"
+2024-03-29 15:00:15 DEBUG cache:45 - Couldn't find template in cache for "spark/partials/navbar.ftl"("en_US", UTF-8, parsed); will try to load it.
+2024-03-29 15:00:15 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/navbar_en_US.ftl"): Not found
+2024-03-29 15:00:15 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/navbar_en.ftl"): Not found
+2024-03-29 15:00:15 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/navbar.ftl"): Found
+2024-03-29 15:00:15 DEBUG cache:45 - Loading template for "spark/partials/navbar.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/harik/.m2/repository/com/aventstack/extentreports/5.1.1/extentreports-5.1.1.jar!/com/aventstack/extentreports/templates/spark/partials/navbar.ftl"
+2024-03-29 15:00:15 DEBUG cache:45 - Couldn't find template in cache for "spark/partials/sidenav.ftl"("en_US", UTF-8, parsed); will try to load it.
+2024-03-29 15:00:15 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/sidenav_en_US.ftl"): Not found
+2024-03-29 15:00:15 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/sidenav_en.ftl"): Not found
+2024-03-29 15:00:15 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/sidenav.ftl"): Found
+2024-03-29 15:00:15 DEBUG cache:45 - Loading template for "spark/partials/sidenav.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/harik/.m2/repository/com/aventstack/extentreports/5.1.1/extentreports-5.1.1.jar!/com/aventstack/extentreports/templates/spark/partials/sidenav.ftl"
+2024-03-29 15:00:15 DEBUG cache:45 - Couldn't find template in cache for "spark/partials/test.ftl"("en_US", UTF-8, parsed); will try to load it.
+2024-03-29 15:00:15 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/test_en_US.ftl"): Not found
+2024-03-29 15:00:15 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/test_en.ftl"): Not found
+2024-03-29 15:00:15 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/test.ftl"): Found
+2024-03-29 15:00:15 DEBUG cache:45 - Loading template for "spark/partials/test.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/harik/.m2/repository/com/aventstack/extentreports/5.1.1/extentreports-5.1.1.jar!/com/aventstack/extentreports/templates/spark/partials/test.ftl"
+2024-03-29 15:00:15 DEBUG cache:45 - Couldn't find template in cache for "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed); will try to load it.
+2024-03-29 15:00:15 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/standard-content_en_US.ftl"): Not found
+2024-03-29 15:00:15 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/standard-content_en.ftl"): Not found
+2024-03-29 15:00:15 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/standard-content.ftl"): Found
+2024-03-29 15:00:15 DEBUG cache:45 - Loading template for "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/harik/.m2/repository/com/aventstack/extentreports/5.1.1/extentreports-5.1.1.jar!/com/aventstack/extentreports/templates/spark/partials/standard-content.ftl"
+2024-03-29 15:00:15 DEBUG cache:45 - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2024-03-29 15:00:15 DEBUG cache:45 - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2024-03-29 15:00:15 DEBUG cache:45 - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2024-03-29 15:00:15 DEBUG cache:45 - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2024-03-29 15:00:15 DEBUG cache:45 - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2024-03-29 15:00:15 DEBUG cache:45 - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2024-03-29 15:00:15 DEBUG cache:45 - Couldn't find template in cache for "spark/partials/exception.ftl"("en_US", UTF-8, parsed); will try to load it.
+2024-03-29 15:00:15 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/exception_en_US.ftl"): Not found
+2024-03-29 15:00:15 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/exception_en.ftl"): Not found
+2024-03-29 15:00:15 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/exception.ftl"): Found
+2024-03-29 15:00:15 DEBUG cache:45 - Loading template for "spark/partials/exception.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/harik/.m2/repository/com/aventstack/extentreports/5.1.1/extentreports-5.1.1.jar!/com/aventstack/extentreports/templates/spark/partials/exception.ftl"
+2024-03-29 15:00:15 DEBUG cache:45 - Couldn't find template in cache for "spark/partials/category.ftl"("en_US", UTF-8, parsed); will try to load it.
+2024-03-29 15:00:15 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/category_en_US.ftl"): Not found
+2024-03-29 15:00:15 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/category_en.ftl"): Not found
+2024-03-29 15:00:15 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/category.ftl"): Found
+2024-03-29 15:00:15 DEBUG cache:45 - Loading template for "spark/partials/category.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/harik/.m2/repository/com/aventstack/extentreports/5.1.1/extentreports-5.1.1.jar!/com/aventstack/extentreports/templates/spark/partials/category.ftl"
+2024-03-29 15:00:15 DEBUG cache:45 - Couldn't find template in cache for "spark/partials/device.ftl"("en_US", UTF-8, parsed); will try to load it.
+2024-03-29 15:00:15 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/device_en_US.ftl"): Not found
+2024-03-29 15:00:15 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/device_en.ftl"): Not found
+2024-03-29 15:00:15 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/device.ftl"): Found
+2024-03-29 15:00:15 DEBUG cache:45 - Loading template for "spark/partials/device.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/harik/.m2/repository/com/aventstack/extentreports/5.1.1/extentreports-5.1.1.jar!/com/aventstack/extentreports/templates/spark/partials/device.ftl"
+2024-03-29 15:00:15 DEBUG cache:45 - Couldn't find template in cache for "spark/partials/author.ftl"("en_US", UTF-8, parsed); will try to load it.
+2024-03-29 15:00:15 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/author_en_US.ftl"): Not found
+2024-03-29 15:00:15 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/author_en.ftl"): Not found
+2024-03-29 15:00:15 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/author.ftl"): Found
+2024-03-29 15:00:15 DEBUG cache:45 - Loading template for "spark/partials/author.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/harik/.m2/repository/com/aventstack/extentreports/5.1.1/extentreports-5.1.1.jar!/com/aventstack/extentreports/templates/spark/partials/author.ftl"
+2024-03-29 15:00:15 DEBUG cache:45 - Couldn't find template in cache for "spark/partials/log.ftl"("en_US", UTF-8, parsed); will try to load it.
+2024-03-29 15:00:15 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/log_en_US.ftl"): Not found
+2024-03-29 15:00:15 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/log_en.ftl"): Not found
+2024-03-29 15:00:15 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/log.ftl"): Found
+2024-03-29 15:00:15 DEBUG cache:45 - Loading template for "spark/partials/log.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/harik/.m2/repository/com/aventstack/extentreports/5.1.1/extentreports-5.1.1.jar!/com/aventstack/extentreports/templates/spark/partials/log.ftl"
+2024-03-29 15:00:15 DEBUG cache:45 - Couldn't find template in cache for "spark/partials/dashboard.ftl"("en_US", UTF-8, parsed); will try to load it.
+2024-03-29 15:00:15 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/dashboard_en_US.ftl"): Not found
+2024-03-29 15:00:15 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/dashboard_en.ftl"): Not found
+2024-03-29 15:00:15 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/dashboard.ftl"): Found
+2024-03-29 15:00:15 DEBUG cache:45 - Loading template for "spark/partials/dashboard.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/harik/.m2/repository/com/aventstack/extentreports/5.1.1/extentreports-5.1.1.jar!/com/aventstack/extentreports/templates/spark/partials/dashboard.ftl"
+2024-03-29 15:00:15 DEBUG cache:45 - Couldn't find template in cache for "spark/partials/scripts.ftl"("en_US", UTF-8, parsed); will try to load it.
+2024-03-29 15:00:15 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/scripts_en_US.ftl"): Not found
+2024-03-29 15:00:15 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/scripts_en.ftl"): Not found
+2024-03-29 15:00:15 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/scripts.ftl"): Found
+2024-03-29 15:00:15 DEBUG cache:45 - Loading template for "spark/partials/scripts.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/harik/.m2/repository/com/aventstack/extentreports/5.1.1/extentreports-5.1.1.jar!/com/aventstack/extentreports/templates/spark/partials/scripts.ftl"
+2024-03-29 15:00:15 DEBUG cache:45 - Couldn't find template in cache for "commons/commons-inject-js.ftl"("en_US", UTF-8, parsed); will try to load it.
+2024-03-29 15:00:15 DEBUG cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-js_en_US.ftl"): Not found
+2024-03-29 15:00:15 DEBUG cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-js_en.ftl"): Not found
+2024-03-29 15:00:15 DEBUG cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-js.ftl"): Found
+2024-03-29 15:00:15 DEBUG cache:45 - Loading template for "commons/commons-inject-js.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/harik/.m2/repository/com/aventstack/extentreports/5.1.1/extentreports-5.1.1.jar!/com/aventstack/extentreports/templates/commons/commons-inject-js.ftl"
+2024-03-29 15:03:22 INFO  Log:20 - =====================================testvalidatOrderHistory TEST START=========================================
+2024-03-29 15:03:37 INFO  Log:24 - =====================================testvalidatOrderHistory TEST END=========================================
+2024-03-29 15:03:48 INFO  Log:20 - =====================================testSearchCamera TEST START=========================================
+2024-03-29 15:04:00 INFO  Log:24 - =====================================testSearchCamera TEST END=========================================
+2024-03-29 15:04:10 INFO  Log:20 - =====================================testaddToCart TEST START=========================================
+2024-03-29 15:04:39 INFO  Log:24 - =====================================testaddToCart TEST END=========================================
+2024-03-29 15:04:49 INFO  Log:20 - =====================================testLogin TEST START=========================================
+2024-03-29 15:05:04 INFO  Log:24 - =====================================testLogin TEST END=========================================
+2024-03-29 15:05:15 INFO  Log:20 - =====================================testTitle TEST START=========================================
+2024-03-29 15:05:32 INFO  Log:20 - =====================================testValidateLogo TEST START=========================================
+2024-03-29 15:05:32 INFO  Log:24 - =====================================testValidateLogo TEST END=========================================
+2024-03-29 15:05:43 INFO  Log:20 - =====================================testCheckout TEST START=========================================
+2024-03-29 15:05:48 INFO  Log:31 - --user is going to enter credentials--
+2024-03-29 15:05:57 INFO  Log:31 - --user is searching camera products--
+2024-03-29 15:06:01 INFO  Log:31 - --click on product--
+2024-03-29 15:06:07 INFO  Log:31 - --click on add to cart--
+2024-03-29 15:06:09 INFO  Log:31 - --validating product added to cart--
+2024-03-29 15:06:09 INFO  Log:31 - --moving to cart--
+2024-03-29 15:06:12 INFO  Log:31 - --click on checkout--
+2024-03-29 15:06:16 INFO  Log:31 - --verify user is in checkoutpage--
+2024-03-29 15:06:16 INFO  Log:24 - =====================================testCheckout TEST END=========================================
+2024-03-29 15:06:17 INFO  Log:31 - inside aftersuite
+2024-03-29 15:06:18 DEBUG cache:45 - Couldn't find template in cache for "spark/spark.spa.ftl"("en_US", UTF-8, parsed); will try to load it.
+2024-03-29 15:06:18 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/spark.spa_en_US.ftl"): Not found
+2024-03-29 15:06:18 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/spark.spa_en.ftl"): Not found
+2024-03-29 15:06:18 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/spark.spa.ftl"): Found
+2024-03-29 15:06:18 DEBUG cache:45 - Loading template for "spark/spark.spa.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/harik/.m2/repository/com/aventstack/extentreports/5.1.1/extentreports-5.1.1.jar!/com/aventstack/extentreports/templates/spark/spark.spa.ftl"
+2024-03-29 15:06:18 DEBUG cache:45 - Couldn't find template in cache for "commons/commons-variables.ftl"("en_US", UTF-8, parsed); will try to load it.
+2024-03-29 15:06:18 DEBUG cache:45 - TemplateLoader.findTemplateSource("commons/commons-variables_en_US.ftl"): Not found
+2024-03-29 15:06:18 DEBUG cache:45 - TemplateLoader.findTemplateSource("commons/commons-variables_en.ftl"): Not found
+2024-03-29 15:06:18 DEBUG cache:45 - TemplateLoader.findTemplateSource("commons/commons-variables.ftl"): Found
+2024-03-29 15:06:18 DEBUG cache:45 - Loading template for "commons/commons-variables.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/harik/.m2/repository/com/aventstack/extentreports/5.1.1/extentreports-5.1.1.jar!/com/aventstack/extentreports/templates/commons/commons-variables.ftl"
+2024-03-29 15:06:19 DEBUG cache:45 - Couldn't find template in cache for "commons/commons-macros.ftl"("en_US", UTF-8, parsed); will try to load it.
+2024-03-29 15:06:19 DEBUG cache:45 - TemplateLoader.findTemplateSource("commons/commons-macros_en_US.ftl"): Not found
+2024-03-29 15:06:19 DEBUG cache:45 - TemplateLoader.findTemplateSource("commons/commons-macros_en.ftl"): Not found
+2024-03-29 15:06:19 DEBUG cache:45 - TemplateLoader.findTemplateSource("commons/commons-macros.ftl"): Found
+2024-03-29 15:06:19 DEBUG cache:45 - Loading template for "commons/commons-macros.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/harik/.m2/repository/com/aventstack/extentreports/5.1.1/extentreports-5.1.1.jar!/com/aventstack/extentreports/templates/commons/commons-macros.ftl"
+2024-03-29 15:06:19 DEBUG cache:45 - Couldn't find template in cache for "spark/macros/attributes.ftl"("en_US", UTF-8, parsed); will try to load it.
+2024-03-29 15:06:19 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/macros/attributes_en_US.ftl"): Not found
+2024-03-29 15:06:19 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/macros/attributes_en.ftl"): Not found
+2024-03-29 15:06:19 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/macros/attributes.ftl"): Found
+2024-03-29 15:06:19 DEBUG cache:45 - Loading template for "spark/macros/attributes.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/harik/.m2/repository/com/aventstack/extentreports/5.1.1/extentreports-5.1.1.jar!/com/aventstack/extentreports/templates/spark/macros/attributes.ftl"
+2024-03-29 15:06:19 DEBUG cache:45 - Couldn't find template in cache for "spark/macros/log.ftl"("en_US", UTF-8, parsed); will try to load it.
+2024-03-29 15:06:19 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/macros/log_en_US.ftl"): Not found
+2024-03-29 15:06:19 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/macros/log_en.ftl"): Not found
+2024-03-29 15:06:19 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/macros/log.ftl"): Found
+2024-03-29 15:06:19 DEBUG cache:45 - Loading template for "spark/macros/log.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/harik/.m2/repository/com/aventstack/extentreports/5.1.1/extentreports-5.1.1.jar!/com/aventstack/extentreports/templates/spark/macros/log.ftl"
+2024-03-29 15:06:19 DEBUG cache:45 - Couldn't find template in cache for "spark/macros/recurse_nodes.ftl"("en_US", UTF-8, parsed); will try to load it.
+2024-03-29 15:06:19 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes_en_US.ftl"): Not found
+2024-03-29 15:06:19 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes_en.ftl"): Not found
+2024-03-29 15:06:19 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes.ftl"): Found
+2024-03-29 15:06:19 DEBUG cache:45 - Loading template for "spark/macros/recurse_nodes.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/harik/.m2/repository/com/aventstack/extentreports/5.1.1/extentreports-5.1.1.jar!/com/aventstack/extentreports/templates/spark/macros/recurse_nodes.ftl"
+2024-03-29 15:06:19 DEBUG cache:45 - "spark/macros/log.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2024-03-29 15:06:19 DEBUG cache:45 - Couldn't find template in cache for "spark/macros/attr-common.ftl"("en_US", UTF-8, parsed); will try to load it.
+2024-03-29 15:06:19 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/macros/attr-common_en_US.ftl"): Not found
+2024-03-29 15:06:19 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/macros/attr-common_en.ftl"): Not found
+2024-03-29 15:06:19 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/macros/attr-common.ftl"): Found
+2024-03-29 15:06:19 DEBUG cache:45 - Loading template for "spark/macros/attr-common.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/harik/.m2/repository/com/aventstack/extentreports/5.1.1/extentreports-5.1.1.jar!/com/aventstack/extentreports/templates/spark/macros/attr-common.ftl"
+2024-03-29 15:06:19 DEBUG cache:45 - Couldn't find template in cache for "spark/partials/head.ftl"("en_US", UTF-8, parsed); will try to load it.
+2024-03-29 15:06:19 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/head_en_US.ftl"): Not found
+2024-03-29 15:06:19 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/head_en.ftl"): Not found
+2024-03-29 15:06:19 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/head.ftl"): Found
+2024-03-29 15:06:19 DEBUG cache:45 - Loading template for "spark/partials/head.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/harik/.m2/repository/com/aventstack/extentreports/5.1.1/extentreports-5.1.1.jar!/com/aventstack/extentreports/templates/spark/partials/head.ftl"
+2024-03-29 15:06:19 DEBUG cache:45 - Couldn't find template in cache for "commons/commons-inject-css.ftl"("en_US", UTF-8, parsed); will try to load it.
+2024-03-29 15:06:19 DEBUG cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-css_en_US.ftl"): Not found
+2024-03-29 15:06:19 DEBUG cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-css_en.ftl"): Not found
+2024-03-29 15:06:19 DEBUG cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-css.ftl"): Found
+2024-03-29 15:06:19 DEBUG cache:45 - Loading template for "commons/commons-inject-css.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/harik/.m2/repository/com/aventstack/extentreports/5.1.1/extentreports-5.1.1.jar!/com/aventstack/extentreports/templates/commons/commons-inject-css.ftl"
+2024-03-29 15:06:19 DEBUG cache:45 - Couldn't find template in cache for "spark/partials/navbar.ftl"("en_US", UTF-8, parsed); will try to load it.
+2024-03-29 15:06:19 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/navbar_en_US.ftl"): Not found
+2024-03-29 15:06:20 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/navbar_en.ftl"): Not found
+2024-03-29 15:06:20 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/navbar.ftl"): Found
+2024-03-29 15:06:20 DEBUG cache:45 - Loading template for "spark/partials/navbar.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/harik/.m2/repository/com/aventstack/extentreports/5.1.1/extentreports-5.1.1.jar!/com/aventstack/extentreports/templates/spark/partials/navbar.ftl"
+2024-03-29 15:06:20 DEBUG cache:45 - Couldn't find template in cache for "spark/partials/sidenav.ftl"("en_US", UTF-8, parsed); will try to load it.
+2024-03-29 15:06:20 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/sidenav_en_US.ftl"): Not found
+2024-03-29 15:06:20 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/sidenav_en.ftl"): Not found
+2024-03-29 15:06:20 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/sidenav.ftl"): Found
+2024-03-29 15:06:20 DEBUG cache:45 - Loading template for "spark/partials/sidenav.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/harik/.m2/repository/com/aventstack/extentreports/5.1.1/extentreports-5.1.1.jar!/com/aventstack/extentreports/templates/spark/partials/sidenav.ftl"
+2024-03-29 15:06:20 DEBUG cache:45 - Couldn't find template in cache for "spark/partials/test.ftl"("en_US", UTF-8, parsed); will try to load it.
+2024-03-29 15:06:20 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/test_en_US.ftl"): Not found
+2024-03-29 15:06:20 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/test_en.ftl"): Not found
+2024-03-29 15:06:20 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/test.ftl"): Found
+2024-03-29 15:06:20 DEBUG cache:45 - Loading template for "spark/partials/test.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/harik/.m2/repository/com/aventstack/extentreports/5.1.1/extentreports-5.1.1.jar!/com/aventstack/extentreports/templates/spark/partials/test.ftl"
+2024-03-29 15:06:20 DEBUG cache:45 - Couldn't find template in cache for "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed); will try to load it.
+2024-03-29 15:06:20 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/standard-content_en_US.ftl"): Not found
+2024-03-29 15:06:20 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/standard-content_en.ftl"): Not found
+2024-03-29 15:06:20 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/standard-content.ftl"): Found
+2024-03-29 15:06:20 DEBUG cache:45 - Loading template for "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/harik/.m2/repository/com/aventstack/extentreports/5.1.1/extentreports-5.1.1.jar!/com/aventstack/extentreports/templates/spark/partials/standard-content.ftl"
+2024-03-29 15:06:20 DEBUG cache:45 - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2024-03-29 15:06:20 DEBUG cache:45 - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2024-03-29 15:06:20 DEBUG cache:45 - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2024-03-29 15:06:20 DEBUG cache:45 - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2024-03-29 15:06:20 DEBUG cache:45 - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2024-03-29 15:06:20 DEBUG cache:45 - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2024-03-29 15:06:20 DEBUG cache:45 - Couldn't find template in cache for "spark/partials/exception.ftl"("en_US", UTF-8, parsed); will try to load it.
+2024-03-29 15:06:20 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/exception_en_US.ftl"): Not found
+2024-03-29 15:06:20 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/exception_en.ftl"): Not found
+2024-03-29 15:06:20 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/exception.ftl"): Found
+2024-03-29 15:06:20 DEBUG cache:45 - Loading template for "spark/partials/exception.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/harik/.m2/repository/com/aventstack/extentreports/5.1.1/extentreports-5.1.1.jar!/com/aventstack/extentreports/templates/spark/partials/exception.ftl"
+2024-03-29 15:06:20 DEBUG cache:45 - Couldn't find template in cache for "spark/partials/category.ftl"("en_US", UTF-8, parsed); will try to load it.
+2024-03-29 15:06:20 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/category_en_US.ftl"): Not found
+2024-03-29 15:06:20 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/category_en.ftl"): Not found
+2024-03-29 15:06:20 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/category.ftl"): Found
+2024-03-29 15:06:20 DEBUG cache:45 - Loading template for "spark/partials/category.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/harik/.m2/repository/com/aventstack/extentreports/5.1.1/extentreports-5.1.1.jar!/com/aventstack/extentreports/templates/spark/partials/category.ftl"
+2024-03-29 15:06:20 DEBUG cache:45 - Couldn't find template in cache for "spark/partials/device.ftl"("en_US", UTF-8, parsed); will try to load it.
+2024-03-29 15:06:20 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/device_en_US.ftl"): Not found
+2024-03-29 15:06:20 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/device_en.ftl"): Not found
+2024-03-29 15:06:20 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/device.ftl"): Found
+2024-03-29 15:06:20 DEBUG cache:45 - Loading template for "spark/partials/device.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/harik/.m2/repository/com/aventstack/extentreports/5.1.1/extentreports-5.1.1.jar!/com/aventstack/extentreports/templates/spark/partials/device.ftl"
+2024-03-29 15:06:20 DEBUG cache:45 - Couldn't find template in cache for "spark/partials/author.ftl"("en_US", UTF-8, parsed); will try to load it.
+2024-03-29 15:06:20 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/author_en_US.ftl"): Not found
+2024-03-29 15:06:20 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/author_en.ftl"): Not found
+2024-03-29 15:06:20 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/author.ftl"): Found
+2024-03-29 15:06:20 DEBUG cache:45 - Loading template for "spark/partials/author.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/harik/.m2/repository/com/aventstack/extentreports/5.1.1/extentreports-5.1.1.jar!/com/aventstack/extentreports/templates/spark/partials/author.ftl"
+2024-03-29 15:06:20 DEBUG cache:45 - Couldn't find template in cache for "spark/partials/log.ftl"("en_US", UTF-8, parsed); will try to load it.
+2024-03-29 15:06:20 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/log_en_US.ftl"): Not found
+2024-03-29 15:06:20 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/log_en.ftl"): Not found
+2024-03-29 15:06:20 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/log.ftl"): Found
+2024-03-29 15:06:20 DEBUG cache:45 - Loading template for "spark/partials/log.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/harik/.m2/repository/com/aventstack/extentreports/5.1.1/extentreports-5.1.1.jar!/com/aventstack/extentreports/templates/spark/partials/log.ftl"
+2024-03-29 15:06:20 DEBUG cache:45 - Couldn't find template in cache for "spark/partials/dashboard.ftl"("en_US", UTF-8, parsed); will try to load it.
+2024-03-29 15:06:20 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/dashboard_en_US.ftl"): Not found
+2024-03-29 15:06:20 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/dashboard_en.ftl"): Not found
+2024-03-29 15:06:20 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/dashboard.ftl"): Found
+2024-03-29 15:06:20 DEBUG cache:45 - Loading template for "spark/partials/dashboard.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/harik/.m2/repository/com/aventstack/extentreports/5.1.1/extentreports-5.1.1.jar!/com/aventstack/extentreports/templates/spark/partials/dashboard.ftl"
+2024-03-29 15:06:20 DEBUG cache:45 - Couldn't find template in cache for "spark/partials/scripts.ftl"("en_US", UTF-8, parsed); will try to load it.
+2024-03-29 15:06:20 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/scripts_en_US.ftl"): Not found
+2024-03-29 15:06:20 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/scripts_en.ftl"): Not found
+2024-03-29 15:06:20 DEBUG cache:45 - TemplateLoader.findTemplateSource("spark/partials/scripts.ftl"): Found
+2024-03-29 15:06:20 DEBUG cache:45 - Loading template for "spark/partials/scripts.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/harik/.m2/repository/com/aventstack/extentreports/5.1.1/extentreports-5.1.1.jar!/com/aventstack/extentreports/templates/spark/partials/scripts.ftl"
+2024-03-29 15:06:20 DEBUG cache:45 - Couldn't find template in cache for "commons/commons-inject-js.ftl"("en_US", UTF-8, parsed); will try to load it.
+2024-03-29 15:06:20 DEBUG cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-js_en_US.ftl"): Not found
+2024-03-29 15:06:20 DEBUG cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-js_en.ftl"): Not found
+2024-03-29 15:06:21 DEBUG cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-js.ftl"): Found
+2024-03-29 15:06:21 DEBUG cache:45 - Loading template for "commons/commons-inject-js.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/harik/.m2/repository/com/aventstack/extentreports/5.1.1/extentreports-5.1.1.jar!/com/aventstack/extentreports/templates/commons/commons-inject-js.ftl"

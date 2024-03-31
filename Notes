@@ -1,0 +1,107 @@
+tools used: eclipse,maven,selenium webdriver,TestNg,log4j,extent report,git,github,jenkins
+steps below for:
+--------------------log4j implementation-----------------------
+---------------------------data driven testing with data provider--------------
+
+---------------------base class without threadlocal remote driver:---------------------------------
+
+package com.opencart.base;
+
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
+import java.io.IOException;
+import java.util.Properties;
+
+import org.apache.log4j.xml.DOMConfigurator;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.firefox.FirefoxDriver;
+import org.openqa.selenium.ie.InternetExplorerDriver;
+import org.openqa.selenium.remote.RemoteWebDriver;
+import org.testng.annotations.BeforeSuite;
+import org.testng.annotations.BeforeTest;
+
+
+import com.opencart.actiondriver.Acts;
+
+import io.github.bonigarcia.wdm.WebDriverManager;
+
+public class BaseClass {
+	public static Properties prop;
+	
+	public static WebDriver driver;
+	
+	
+	@BeforeTest
+		public void loadConfig() {
+		
+		try {
+			prop = new Properties();
+			FileInputStream fis = new FileInputStream(
+					System.getProperty("user.dir") + "\\Configuration\\config.properties");
+			prop.load(fis);
+			System.out.println("driver: "+driver);
+
+		} catch (FileNotFoundException e) {
+			e.printStackTrace();
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
+	}
+	
+	
+	public void launchApp() {
+		WebDriverManager.chromedriver().setup();
+		String browserName = prop.getProperty("browser");
+		
+		if (browserName.equalsIgnoreCase("Chrome")) {
+			WebDriverManager.chromedriver().setup();
+			driver = new ChromeDriver();
+			
+		} else if (browserName.equalsIgnoreCase("FireFox")) {
+			WebDriverManager.firefoxdriver().setup();
+			driver = new FirefoxDriver();
+			
+		} else if (browserName.equalsIgnoreCase("IE")) {
+			WebDriverManager.iedriver().setup();
+			driver = new InternetExplorerDriver();
+			
+		}
+		driver.manage().window().maximize();
+		Acts.implicitWait(driver,10);
+		Acts.pageLoadTimeOut(driver,30);
+		driver.get(prop.getProperty("uri"));
+		
+	}
+	
+}
+----------------------------------------------------------------------------------
+
+
+--------------------log4j implementation-----------------------
+1. Add log4j.xml in project directory
+2.Add log class in utility pkg
+3.configure @beforeSuite at baseclass for log4j.xml
+DOMConfigurator.configure("log4j.xml")
+
+
+---------------------------data driven testing with data provider--------------
+1. Add excelbirary class to utility pkg
+2.Add test data excel to testdata folder under project directory
+3.Add dataproviders class under dataprovider pkg and add object of excellibrary class
+
+----------------Extent report-------------
+1. Add extent-config.xml to project directory
+2.Add ExtentManager class to utility pkg
+  to create object of ExtentHtmlReporter and load extent-config.xml
+  
+ 3. create extentReport folder under test-output
+ 4.Configure ExtentManager.setExtent() in @BeforeSuite in Baseclass
+ 5.Configure ExtentManager.endReport() in @AfterSuite in Baseclass
+6.Add ScreenShot method in Acts class under actiondriver pkg
+7.Add listener class to attach screenshot to extentreport
+8. to call listener add listener tag code to testng.xml
+<listeners>
+		<listener class-name="com.opencart.utility.ListenerClass"></listener>
+	</listeners>
+ 
